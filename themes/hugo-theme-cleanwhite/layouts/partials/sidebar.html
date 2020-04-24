@@ -13,13 +13,13 @@
         <hr class="hidden-sm hidden-xs">
         <h5>FEATURED TAGS</h5>
         <div class="tags">
-            {{ $featured_condition_size := .Site.Params.featured_condition_size }} 
+            {{ $featured_condition_size := .Site.Params.featured_condition_size }}
             {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
-               {{ if gt (len $taxonomy.Pages) $featured_condition_size }} 
+               {{ if gt (len $taxonomy.Pages) $featured_condition_size }}
                     <a href="{{ "/tags/" | relLangURL }}{{ $name | urlize }}" title="{{ $name }}">
                         {{ $name }}
                     </a>
-               {{ end }} 
+               {{ end }}
             {{ end }}
         </div>
     </section>
@@ -39,7 +39,7 @@
                 <p>{{ . }}</p>
             {{ end }}
            <!-- SNS Link -->
-           <ul class="list-inline"> 
+           <ul class="list-inline">
                {{ if .Site.Params.social.rss }}
                <li>
                    <a href='{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}' rel="alternate" type="application/rss+xml" title="{{ .Site.Title | default "" }}" >
@@ -249,4 +249,7 @@
         </ul>
     </section>
     {{ end }}
+    <div class="my-twitter">
+      <a class="twitter-timeline" href="https://twitter.com/tofunology?ref_src=twsrc%5Etfw" data-height="1000">Tweets by tofunology</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    </div>
 </div>
