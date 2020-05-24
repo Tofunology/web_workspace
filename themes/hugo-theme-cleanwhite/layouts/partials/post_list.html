@@ -10,13 +10,13 @@
             {{ . }}
         </h3>
 	{{ end }}
-        <div class="post-content-preview">
+        <!-- <div class="post-content-preview">
 	{{ with .Description }}
             {{ . }}
         {{ else }}
             {{ .Summary}}
        {{ end }}
-        </div>
+        </div> -->
     </a>
     <p class="post-meta">
     Posted by {{ with .Params.author }}{{ . }}{{ else }}{{ .Site.Title }}{{ end }} {{ .Date.Format "Monday, January 2, 2006" }}
