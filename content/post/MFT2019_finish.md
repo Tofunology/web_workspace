@@ -29,15 +29,17 @@ tags:
 今回はブースの様子や初参加の感想などを書いていこうと思います。
 
 まずは当日のブースの様子です！  
-<video width="640" height="360" controls>
-  <source src="/images/post/mft2019_booth.MOV" type="video/mov">
+
+<video controls>
+　　　<source src="/images/post/mft2019_booth_for_chrome.mp4">
+　　　<source src="/images/post/mft2019_booth_for_safari.mov">
 </video>
 
 私たちの展示は対戦型ゲームということもあり、このように実際にお客さんにゲームをプレイしていただくことで私達の予想以上をはるかに超えた盛り上がりを見せていました。  
 
 中でもチビッ子達の食いつきが半端なかったですね笑
 
-{{< figure src="/images/post/mft2019_child.jpg" width="640" height="360" >}}
+{{< figure src="/images/post/mft2019_child.jpg" >}}
 
 魚雷戦ゲーム自体はもう30年以上も前のボードゲームなんですが、こうやって今の子供達がプレイして楽しんでいるのを見ると、世代を越えて楽しめるゲームを作ることができたのかなーって思えて少し嬉しかったです😊
 
