@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "C97にサークル参加します"
-subtitle:   "I'll exhibit in \"comic market 97\" "
+subtitle:   "I'll take part in \"comic market 97\"as a circle"
 date:       2019-12-10
 #author:     "Gitefu"
 #URL:        "/2020/C97_notice/"
@@ -11,7 +11,6 @@ tags:
     - コミックマーケット
     - C97
     - 製作記
-    - 魚雷艦ゲーム
 #URL: ""
 #categories: [ Tech ]
 ---
@@ -22,7 +21,7 @@ tags:
 こんにちは、ぎてふです。
 
 　先日[MakerFaireTokyo2019](https://makezine.jp/event/mft2019/)で展示した[「最強艦魚雷立体バトル」]({{< ref "/post/MFT2019_finish.html" >}})の製作記をコミックマーケット97にて頒布します！<br>
-4日目に<b><u>南地区"ラ"ブロック39b</u></b>にて，1冊500円で頒布します。皆さんとお会いしてお話できることを楽しみにしています。<br>
+4日目に<b><u>南地区"ラ"ブロック39b</u></b>にて，1冊300円で頒布します。皆さんとお会いしてお話できることを楽しみにしています。<br>
 　ぜひお越しください。
 {{< figure src="/images/post/C97_book.jpg" >}}
 
@@ -32,7 +31,7 @@ tags:
 <span style="color: #00008b">
 　　場所：　南地区"ラ"ブロック39b<br>
 　　日時：　4日目　(2019/12/31(火))<br>
-　頒布物：　tofunology製作記#1 (1冊 ¥500)
+　頒布物：　tofunology製作記#1 (1冊 ¥300)
 </span>
 
 <font size="5" style="color: #191970"><strong>コミックマーケット </strong></font><br>
