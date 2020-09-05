@@ -118,11 +118,19 @@ isPlainText = true
 mediaType = "application/json"
 notAlternative = true
 
+[markup.goldmark.renderer]
+  unsafe = true
+
+
+
 [params.algolia]
 vars = ["title", "summary", "date", "publishdate", "expirydate", "permalink"]
 params = ["categories", "tags"]
 
 [markup]
+  defaultMarkdownHandler = "blackFriday"
+  [markup.blackFriday] #リンクを無理やり別タブで開かせます
+    hrefTargetBlank = true
   [markup.tableOfContents]
     endLevel = 2
     startLevel = 1
