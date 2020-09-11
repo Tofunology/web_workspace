@@ -16,12 +16,14 @@ home = ["HTML", "RSS", "Algolia"]
 [params]
   header_image = "images/meetingLog.jpg"
   SEOTitle = "tofunology"
-  description = ""
-  keyword = ""
+  description = "ものつくりを軸に活動する団体\"tofunology\"のHPです"
+  keyword = "電子工作，ものつくり，MFT，MakerFaireTokyo"
   slogan = ""
 
+  thumbnailBase = "img/tofunology_logo_for_thumbnail.jpg"
+
   image_404 = "img/404-bg.jpg"
-  title_404 = ""
+  title_404 = "記事が見つかりません"
   omit_categories = false
 
   # leancloud storage for page view counter

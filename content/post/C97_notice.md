@@ -1,11 +1,13 @@
 ---
 layout:     post
 title:      "C97にサークル参加します"
-subtitle:   "I'll take part in \"comic market 97\"as a circle"
+subtitle:   "I'll take part in \"comic market 97\" as a circle."
 date:       2019-12-10
 #author:     "Gitefu"
 #URL:        "/2020/C97_notice/"
 image:      "/images/post/C97_end_gray.jpeg"
+description:  "コミックマーケット97の4日目に製作記を頒布します！"
+thumbnail:  "/images/post/C97_book.jpg"
 
 tags:
     - コミックマーケット

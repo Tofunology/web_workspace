@@ -6,6 +6,8 @@ date:       2019-08-15
 #author:     "Tamai Hayato"
 #URL:        "/2020/begin_HP/"
 image:      "/images/post/mft2019_1_gray.jpg"
+description:  "MakerFaireTokyo2019に出展してきました！ご来場ありがとうございました！"
+thumbnail:  "/images/post/MFT2019_day1.jpg"
 
 tags:
     - MFT2019
