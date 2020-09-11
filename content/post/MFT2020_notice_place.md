@@ -55,7 +55,7 @@ tags:
 *****
 
 
-<font size="6" style="color: #191970"><strong>Maker Faire Tokyo 2020 </strong></font>
+<font size="5" style="color: #191970"><strong>Maker Faire Tokyo 2020 </strong></font>
 
 <span style="color: #00008b">
 会場：東京ビッグサイト(東京国際展示場) 西4ホール<br>
