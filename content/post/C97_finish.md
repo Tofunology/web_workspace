@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "C97にサークル参加しました"
-subtitle:   "We took part in \"comic market 97\"as a circle." #コミケのHP上だとサークルはcircleだったのでそのまま
+subtitle:   "We took part in \"comic market 97\" as a circle." #コミケのHP上だとサークルはcircleだったのでそのまま
 date:       2020-01-11
 #author:     "Gitefu"
 #URL:        "/2020/C97_notice/"
