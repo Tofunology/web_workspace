@@ -93,30 +93,21 @@
     </item>
     
     <item>
-      <title></title>
-      <link>https://tofunology.github.io/site/top/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://tofunology.github.io/site/top/contact/</guid>
-      <description>お問い合わせはメールにて承ります tofunology.102@gmail.com ・送る際は必ず「所属団体」もしくは「名前」を必ず明記してください。 ・できる限り早く返信をできるようにします</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://tofunology.github.io/site/top/news/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://tofunology.github.io/site/top/news/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>About</title>
       <link>https://tofunology.github.io/site/top/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tofunology.github.io/site/top/about/</guid>
-      <description>tofunololgyとは 工業高校を卒業した学生が、”ものづくり の楽しさ”を求めて再び集まり結成した有志団体です。 進学の影響によりチームメン</description>
+      <description>tofunololgyとは 工業高校を卒業した学生が、”ものづくりの楽しさ” を求めて再び集まり結成した有志団体です。 進学の影響によりチームメン</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://tofunology.github.io/site/top/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tofunology.github.io/site/top/contact/</guid>
+      <description>お問い合わせはメールにて承ります tofunology.102@gmail.com ・送る際は必ず「所属団体」もしくは「名前」を必ず明記してください。 ・できる限り早く返信をできるようにします</description>
     </item>
     
   </channel>

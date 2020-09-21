@@ -1,3 +1,7 @@
+---
+title:      "Contact"
+image:      "/images/contact.jpg"
+---
 ## お問い合わせはメールにて承ります
 
 **_tofunology.102@gmail.com_**

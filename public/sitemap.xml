@@ -123,11 +123,6 @@
   </url>
   
   <url>
-    <loc>https://tofunology.github.io/site/tags/%E5%88%9D%E3%82%81%E3%81%A6%E3%81%8B%E3%82%82%E3%81%97%E3%82%8C%E3%82%93.../</loc>
-    <lastmod>2019-07-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://tofunology.github.io/site/tags/tohunology%E3%81%B8/</loc>
     <lastmod>2019-04-24T00:00:00+00:00</lastmod>
   </url>
@@ -157,14 +152,6 @@
   </url>
   
   <url>
-    <loc>https://tofunology.github.io/site/top/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>https://tofunology.github.io/site/top/news/</loc>
-  </url>
-  
-  <url>
     <loc>https://tofunology.github.io/site/top/about/</loc>
   </url>
   
@@ -173,11 +160,19 @@
   </url>
   
   <url>
+    <loc>https://tofunology.github.io/site/top/contact/</loc>
+  </url>
+  
+  <url>
     <loc>https://tofunology.github.io/site/search/</loc>
   </url>
   
   <url>
     <loc>https://tofunology.github.io/site/top/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tofunology.github.io/site/tags/%E5%88%9D%E3%82%81%E3%81%A6%E3%81%8B%E3%82%82%E3%81%97%E3%82%8C%E3%82%93.../</loc>
   </url>
   
 </urlset>
