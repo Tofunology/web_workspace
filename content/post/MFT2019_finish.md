@@ -6,6 +6,8 @@ date:       2019-08-15
 #author:     "Tamai Hayato"
 #URL:        "/2020/begin_HP/"
 image:      "/images/post/mft2019_1_gray.jpg"
+description:  "MakerFaireTokyo2019に出展してきました！ご来場ありがとうございました！"
+thumbnail:  "/images/post/MFT2019_day1.jpg"
 
 tags:
     - MFT2019
@@ -22,20 +24,25 @@ tags:
 
 こんにちは、たまです。
 
-８月３日に東京ビッグサイトで開催された MakerFaireTokyo2019 に出展してきました。   
+８月３日に東京ビッグサイトで開催された MakerFaireTokyo2019 に出展してきました。
 ブースにお越し下さったみなさま、本当にありがとうございました！！
 
-当日の疲弊しきったメンバーの様子は後ほど記事にするとして...  
+当日の疲弊しきったメンバーの様子は後ほど記事にするとして...
 今回はブースの様子や初参加の感想などを書いていこうと思います。
 
+<<<<<<< HEAD
 まずは当日のブースの様子です！  
 
 <video controls>
 　　　<source src="/images/post/mft2019_booth_for_chrome.mp4">
 　　　<source src="/images/post/mft2019_booth_for_safari.mov">
 </video>
+=======
+まずは当日のブースの様子です！
+{{< youtube tZ91H0jV6lI >}}
+>>>>>>> c692a9f589e40c9a7eed4948471c1abacb465ab7
 
-私たちの展示は対戦型ゲームということもあり、このように実際にお客さんにゲームをプレイしていただくことで私達の予想以上をはるかに超えた盛り上がりを見せていました。  
+私たちの展示は対戦型ゲームということもあり、このように実際にお客さんにゲームをプレイしていただくことで私達の予想以上をはるかに超えた盛り上がりを見せていました。
 
 中でもチビッ子達の食いつきが半端なかったですね笑
 

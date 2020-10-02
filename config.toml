@@ -16,12 +16,14 @@ home = ["HTML", "RSS", "Algolia"]
 [params]
   header_image = "images/meetingLog.jpg"
   SEOTitle = "tofunology"
-  description = ""
-  keyword = ""
+  description = "ものつくりを軸に活動する団体\"tofunology\"のHPです"
+  keyword = "電子工作，ものつくり，MFT，MakerFaireTokyo"
   slogan = ""
 
+  thumbnailBase = "img/tofunology_logo_for_thumbnail.jpg"
+
   image_404 = "img/404-bg.jpg"
-  title_404 = ""
+  title_404 = "記事が見つかりません"
   omit_categories = false
 
   # leancloud storage for page view counter
@@ -101,9 +103,7 @@ home = ["HTML", "RSS", "Algolia"]
   title = "unsplash"
   href = "https://unsplash.com"
 
-  [[params.addtional_menus]]
-  title =  "NEWS"
-  href =  "/top/news/"
+
   [[params.addtional_menus]]
   header_image = "images/meetingLog.jpg"
   title =  "ABOUT"
@@ -118,11 +118,19 @@ isPlainText = true
 mediaType = "application/json"
 notAlternative = true
 
+[markup.goldmark.renderer]
+  unsafe = true
+
+
+
 [params.algolia]
 vars = ["title", "summary", "date", "publishdate", "expirydate", "permalink"]
 params = ["categories", "tags"]
 
 [markup]
+  defaultMarkdownHandler = "blackFriday"
+  [markup.blackFriday] #リンクを無理やり別タブで開かせます
+    hrefTargetBlank = true
   [markup.tableOfContents]
     endLevel = 2
     startLevel = 1
