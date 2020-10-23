@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MakerFaire on tofunology</title>
@@ -6,10 +6,28 @@
     <description>Recent content in MakerFaire on tofunology</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 15 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://tofunology.github.io/site/tags/makerfaire/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>MakerFaireTokyo2020に出展します(会場編)</title>
+      <link>https://tofunology.github.io/site/post/mft2020_notice_place/</link>
+      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tofunology.github.io/site/post/mft2020_notice_place/</guid>
+      <description>こんにちは、ぎてふです。 MFT2020での出展が決定！ 今年10月に東京ビッグサイトで開催される MakerFaireTokyo2020 での出展が決定しました！🎉🎉🎉 作品紹介 今回展</description>
+    </item>
+    
+    <item>
+      <title>MakerFaireTokyo2020に出展します(作品編)</title>
+      <link>https://tofunology.github.io/site/post/mft2020_notice_works/</link>
+      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tofunology.github.io/site/post/mft2020_notice_works/</guid>
+      <description>こんにちは、ぎてふです。 MakerFaireTokyo2020での出展が決定しました！！🎉 この記事では、MakerFaireTokyo202</description>
+    </item>
     
     <item>
       <title>MakerFaireTokyo2019ご来場ありがとうございました！</title>

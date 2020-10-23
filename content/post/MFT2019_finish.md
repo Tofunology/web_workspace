@@ -30,17 +30,8 @@ tags:
 当日の疲弊しきったメンバーの様子は後ほど記事にするとして...
 今回はブースの様子や初参加の感想などを書いていこうと思います。
 
-<<<<<<< HEAD
-まずは当日のブースの様子です！  
-
-<video controls>
-　　　<source src="/images/post/mft2019_booth_for_chrome.mp4">
-　　　<source src="/images/post/mft2019_booth_for_safari.mov">
-</video>
-=======
 まずは当日のブースの様子です！
 {{< youtube tZ91H0jV6lI >}}
->>>>>>> c692a9f589e40c9a7eed4948471c1abacb465ab7
 
 私たちの展示は対戦型ゲームということもあり、このように実際にお客さんにゲームをプレイしていただくことで私達の予想以上をはるかに超えた盛り上がりを見せていました。
 
