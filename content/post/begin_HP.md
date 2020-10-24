@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "公式HPはじめました"
-subtitle:   "Tofunology's official HP has launched."
+subtitle:   "tofunology's official HP has launched."
 date:       2019-04-24
 #author:     "Tamai Hayato"
 #URL:        "/2020/begin_HP/"
@@ -9,7 +9,7 @@ image:      "/images/post/members_1_gray.jpeg"
 
 tags:
     - ようこそ
-    - Tohunologyへ
+    - tofunologyへ
     - 皆様どうか
     - ひとつよしなに
 #URL: ""

@@ -6,12 +6,12 @@ date:       2020-09-25
 #author:     "Tamai Hayato"
 #URL:        "/2020/MFT2020_last_notice/"
 image:      "/images/post/chicken_box.jpg"
-description:  "MakerFaireTokyo2019に出展することが決定しました！"
+description:  "MakerFaireTokyo2020に向けて作成中！"
 thumbnail:  "/images/post/fishwar_2.jpg"
 
 tags:
     - MFT2020
-    - MakerFaireTokyo
+    - MakerFaire
     - 広報担当は
     - 茨城の僻地で
     - 応援しています。
@@ -88,7 +88,7 @@ MakerFaireTokyo2020開催まであと１週間です！！😱😱😱
 
 そういえば先日ついに、回路班から光るチキン画像をいただきました😲
 
-{{< figure src="/images/post/checken_3.JPG" >}}
+{{< figure src="/images/post/checken_3.jpeg" class="center" width="300px">}}
 (こえぇ...こんなん夢に出るわ......)
 
 
