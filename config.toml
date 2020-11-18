@@ -20,7 +20,7 @@ home = ["HTML", "RSS", "Algolia"]
   keyword = "電子工作，ものつくり，MFT，MakerFaireTokyo"
   slogan = ""
 
-  thumbnailBase = "img/tofunology_logo_for_thumbnail.jpg"
+  thumbnailBase = "/img/tofunology_logo_for_thumbnail.jpg"
 
   image_404 = "img/404-bg.jpg"
   title_404 = "記事が見つかりません"
