@@ -3,6 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://tofunology.github.io/site/post/</loc>
+    <lastmod>2020-12-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tofunology.github.io/site/tags/</loc>
+    <lastmod>2020-12-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tofunology.github.io/site/</loc>
+    <lastmod>2020-12-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tofunology.github.io/site/tags/workshop/</loc>
+    <lastmod>2020-12-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tofunology.github.io/site/post/ws1st/</loc>
+    <lastmod>2020-12-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tofunology.github.io/site/tags/makerfaire/</loc>
     <lastmod>2020-10-23T00:00:00+00:00</lastmod>
   </url>
@@ -14,21 +39,6 @@
   
   <url>
     <loc>https://tofunology.github.io/site/tags/mft2020/</loc>
-    <lastmod>2020-10-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tofunology.github.io/site/post/</loc>
-    <lastmod>2020-10-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tofunology.github.io/site/tags/</loc>
-    <lastmod>2020-10-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tofunology.github.io/site/</loc>
     <lastmod>2020-10-23T00:00:00+00:00</lastmod>
   </url>
   
@@ -60,11 +70,6 @@
   <url>
     <loc>https://tofunology.github.io/site/post/mft2020_notice_works/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tofunology.github.io/site/tags/c97/</loc>
-    <lastmod>2020-01-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>

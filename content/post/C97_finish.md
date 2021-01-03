@@ -11,7 +11,6 @@ thumbnail:  "/images/post/C97_booth.jpg"
 
 tags:
     - コミックマーケット
-    - C97
     - 製作記
 #URL: ""
 #categories: [ Tech ]
