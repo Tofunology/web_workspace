@@ -7,7 +7,7 @@ date:       2020-12-29
 #URL:       "/2020/MFT2020_notice/"
 image:      "/images/post/WS_top_dark.jpeg"
 description: "MakerFaireTokyo2020で展示する作品を紹介します！"
-thumbnail:  "images/post/WS_top.jpeg"
+thumbnail:  "/images/post/WS_top.jpeg"
 
 tags:
     - workshop
