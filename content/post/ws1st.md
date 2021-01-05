@@ -5,9 +5,9 @@ subtitle:   "We held workshops!"
 date:       2020-12-29
 #author:    "ぎてふ"
 #URL:       "/2020/MFT2020_notice/"
-image:      "/images/post/WS_top_dark.jpeg"
+image:      "/images/post/WS-1st/WS_top_dark.jpeg"
 description: "初の団体内ワークショップ「Workshop-1st」を開催しました！！🎉🎉🎉"
-thumbnail:  "/images/post/WS_top.jpeg"
+thumbnail:  "/images/post/WS-1st/WS_top.jpeg"
 
 tags:
     - workshop
@@ -44,7 +44,7 @@ tags:
 次に**教えられるメンバーに**企画してもらって、<br>
 最後に**それぞれ開催をする**。<br>
 ・・・という形をとりました。
-{{< figure src="/images/post/ws1st_plan.jpeg" >}}
+{{< figure src="/images/post/WS-1st/ws1st_plan.jpeg" >}}
 
 <br>
 # 5つのワークショップを開催
@@ -79,3 +79,9 @@ tags:
 
 　ただメンバー全員が忙しい時期だったため、参加できないメンバーもいました。<br>
 次回は開催時期の調整等を通して、もっとメンバーが参加しやすい形を取りたいと考えています。
+
+{{< load-photoswipe >}}
+{{< gallery hover-effect="grow" caption-position="center" caption-effect="fade" >}}
+{{< figure link="/images/post/WS-1st/WS_OOP.png" caption="センサーやアームを用いて クラス設計と共同開発を ーOOPとArduino共同開発" >}}
+{{< figure link="/images/post/WS-1st/WS_kiCad.png" caption="実際に作成したPCBデータ (非同期2進カウンタ) ーイチから始める回路製作" >}}
+{{< /gallery >}}
