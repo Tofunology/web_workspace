@@ -49,7 +49,7 @@ tags:
 <br>
 # 5つのワークショップを開催
 *****
-　各ブースをメンバーに企画してもらい、これらのうちから参加したいものに全て参加できる形式を取りました。
+　これらのうちから参加したいものに全て参加できる形式を取りました。
 
 1. git触れ合い体験
 1. オブジェクト指向とArduino共同開発
@@ -83,5 +83,6 @@ tags:
 {{< load-photoswipe >}}
 {{< gallery hover-effect="grow" caption-position="center" caption-effect="fade" >}}
 {{< figure link="/images/post/WS-1st/WS_OOP.jpeg" caption="センサーやアームを用いて クラス設計と共同開発を ーOOPとArduino共同開発" >}}
+{{< figure link="/images/post/WS-1st/WS_inventor.jpg" caption="メンバーが作成したデータを Inventorで自由自在に閲覧・確認しよう ーInventorやぞ" >}}
 {{< figure link="/images/post/WS-1st/WS_kiCad.png" caption="実際に作成したPCBデータ (非同期2進カウンタ) ーイチから始める回路製作" >}}
 {{< /gallery >}}
