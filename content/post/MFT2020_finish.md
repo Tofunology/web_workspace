@@ -32,8 +32,13 @@ tags:
 この珍妙な見た目に惹かれて展示を見てくださる方がとても多かった！w<br>
 みなさん色々なフレーズをこのチキンに歌わせていましたね。<br>
 （実は**声でも音階を取得して演奏できるんですよ！**会場内の音が多く展示することは叶いませんでしたが、、、）
-{{< figure src="/images/post/MFT2020_booth3.jpg" width="900px">}}
-{{< figure src="/images/post/MFT2020_booth2.jpg" width="900px">}}
+{{<youtube QB3EP3gZRYM>}}
+{{< load-photoswipe >}}
+{{< gallery hover-effect="grow" caption-position="center" caption-effect="fade" >}}
+{{< figure link="/images/post/MFT2020_booth2.jpg" caption="来場者の方と展示を通して たくさんお話しできました">}}
+{{< figure link="/images/post/MFT2020_booth3.jpg" thumb="-thumb" caption="チキンたちと 7色に輝く筐体">}}
+{{< figure link="/images/post/MFT2020_booth4.png" thumb="-thumb" caption="筐体の中身も大公開！">}}
+{{< /gallery >}}
 <br>
 
 # メディア掲載ありがとうございます！
