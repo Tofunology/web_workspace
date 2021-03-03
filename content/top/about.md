@@ -1,5 +1,6 @@
 ---
 title:      "About"
+# image:      "/images/About/About.jpeg"
 ---
 # tofunololgyとは
 　工業高校を卒業した学生が、”ものづくりの楽しさ” を求めて再び集まり結成した有志団体です。
