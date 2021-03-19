@@ -11,6 +11,7 @@ const tbH = titleB.clientHeight;
 // 現在地を示す変数を定義
 let pos = 0;
 let lastPos = 0;
+let nowOnMouse=0;
 
 const winH = window.innerHeight;
 
@@ -23,16 +24,20 @@ const windBtm = docH - winH;
 const onScroll = () => {
     var alphaValue = (pos>tbH)?1.0:(pos*1.0/tbH)*(pos*1.0/tbH);
     for(var i=0;i<backClassLen;i++){
-        backClass[i].style.backgroundColor="rgba(0,0,0,"+alphaValue+")";
+      var color = window.getComputedStyle(backClass[i], '').backgroundColor;
+      var colors = color.match(/\d+/g);
+      backClass[i].style.backgroundColor="rgba("+colors[0]+","+colors[1]+","+colors[2]+","+alphaValue+")";
+      
     }
   
       // 最後のスクロール位置を保存
       lastPos = pos;
-  };
+};
 
-  
 window.addEventListener("scroll", () => {
   // スクロールするごとにpos（現在地）の値を更新
   pos = window.scrollY;
-  onScroll();
+  if(nowOnMouse==0){
+    onScroll();
+  }
 });
