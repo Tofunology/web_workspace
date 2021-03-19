@@ -1,5 +1,5 @@
 <!-- Navigation -->
-<nav class="navbar navbar-default navbar-custom navbar-fixed-top">
+<nav id="navBack" class="nav-hoge navbar navbar-default navbar-custom navbar-fixed-top">
     <div class="container-fluid">
         <!-- Brand and toggle get grouped for better mobile display -->
         <div class="navbar-header page-scroll">
@@ -32,7 +32,7 @@
                         {{ end }}
                     {{ end }}
                     
-		    {{ range .Site.Params.addtional_menus }}
+		            {{ range .Site.Params.addtional_menus }}
                         <li><a href="{{.href | relLangURL}}">{{.title}}</a></li>
                     {{ end }}
 
@@ -47,6 +47,7 @@
         <!-- /.navbar-collapse -->
     </div>
     <!-- /.container -->
+    
 </nav>
 <script>
     // Drop Bootstarp low-performance Navbar
