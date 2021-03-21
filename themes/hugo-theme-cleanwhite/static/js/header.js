@@ -33,20 +33,27 @@ const onScroll = () => {
     lastPos = pos;
 };
 
-window.addEventListener("scroll", () => {
-    // スクロールするごとにpos（現在地）の値を更新
+const onScrollAction = () => {
     pos = window.scrollY;
     if (nowOnMouse == 0) {
         onScroll();
     }
-});
+};
 
-window.addEventListener("click", () => {
-    onScroll();
+setInterval(onScrollAction, 1);
+
+// window.addEventListener("scroll", () => {
+//     // スクロールするごとにpos（現在地）の値を更新
+//     pos = window.scrollY;
+//     if (nowOnMouse == 0) {
+//         onScroll();
+//     }
+// });
+
+const onClickAction = () => {
     heH = header.clientHeight;
     console.log(heH);
-
-    if (heH == 0) {
+    if (heH == 0 || heH == 60) {
         for (var i = 0; i < backClassLen; i++) {
             backClass[i].style.height = "100%";
         }
@@ -55,4 +62,6 @@ window.addEventListener("click", () => {
             backClass[i].style.height = "20%";
         }
     }
-});
+};
+
+setInterval(onClickAction, 1);
