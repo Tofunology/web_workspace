@@ -22,25 +22,23 @@ var heH = header.clientHeight;
 const windBtm = docH - winH;
 
 const onScroll = () => {
+    pos = window.scrollY;
     var alphaValue = (pos > tbH) ? 1.0 : (pos * 1.0 / tbH) * (pos * 1.0 / tbH);
     for (var i = 0; i < backClassLen; i++) {
         var color = window.getComputedStyle(backClass[i], '').backgroundColor;
         var colors = color.match(/\d+/g);
         backClass[i].style.backgroundColor = "rgba(" + colors[0] + "," + colors[1] + "," + colors[2] + "," + alphaValue + ")";
     }
-
-    // 最後のスクロール位置を保存
-    lastPos = pos;
 };
 
-const onScrollAction = () => {
-    pos = window.scrollY;
-    if (nowOnMouse == 0) {
-        onScroll();
-    }
-};
+// const onScrollAction = () => {
+//     
+//     if (nowOnMouse == 0) {
+//         onScroll();
+//     }
+// };
 
-setInterval(onScrollAction, 1);
+// setInterval(onScrollAction, 1);
 
 // window.addEventListener("scroll", () => {
 //     // スクロールするごとにpos（現在地）の値を更新
@@ -62,6 +60,7 @@ const onClickAction = () => {
             backClass[i].style.height = "20%";
         }
     }
+    onScroll();
 };
 
-setInterval(onClickAction, 1);
+setInterval(onClickAction, 16);
