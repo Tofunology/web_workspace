@@ -14,7 +14,7 @@ hasCJKLanguage = true
 home = ["HTML", "RSS", "Algolia"]
 
 [params]
-  header_image = "images/meetingLog.jpg"
+  header_image = "images/home/meetingLog.jpg"
   SEOTitle = "tofunology"
   description = "ものつくりを軸に活動する団体\"tofunology\"のHPです"
   keyword = "電子工作，ものつくり，MFT，MakerFaireTokyo"

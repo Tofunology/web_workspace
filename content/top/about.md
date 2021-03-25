@@ -1,18 +1,22 @@
 ---
 title:      "About"
-# image:      "/images/About/About.jpeg"
+image:      "/images/About/prodacts.png"
 ---
-# tofunololgyとは
-<br>
 <center>
-<h2><u>\_”ものづくりの楽しさ”\_</u></h2><h3>を求めて、<br><br>工業高校を卒業した学生が、再結集した有志団体です。 </h3>
-{{< figure src ="/images/logo.jpeg" >}}
+# tofunologyとは
+<h4><u>\_”ものづくりの楽しさ”\_</u></h4>を求めて<br>工業高校を卒業した学生が、再結集した有志団体です。 <br>金銭的な利益を求めません。ロマンを求めます。
 
-進学の影響によりチームメンバーはそれぞれ居住地が異なりますが、
 
-各々が自分の得意分野を活かし
 
-１つの作品を創り上げてきました。
+{{< load-photoswipe >}}
+{{< gallery hover-effect="grow" caption-position="center" caption-effect="fade" >}}
+{{< figure link="images/post/MFT2020_booth3.jpg" thumb="-thumb" caption="MFT2020の作品 SHOUTING PIANO" >}}
+{{< figure link="images/post/MFT2020_booth4.png" caption="MFT2020の作品 SHOUTING PIANO(中身)" >}}
+{{< figure link="/images/post/MFT2019_day1.jpg" caption="MFT2019の作品 最強艦魚雷立体バトル" >}}
+{{< figure link="/images/post/C97_booth.jpg" caption="C97 MFT2019製作記" >}}
+{{< figure link="/images/meeting.jpg" caption="メンバー共同でのミーティング" >}}
+{{< figure link="/images/post/WS-1st/WS_kiCad.png" caption="団体内Workshop 回路講座" >}}
+{{< /gallery >}}
 
 <br>
 # メンバー構成
@@ -31,6 +35,6 @@ title:      "About"
 
 またその作品の製作記や用いた技術等についてまとめた本を
 
-技術書典やコミックマーケットで出版したいと考えています。
+技術書典やコミックマーケットで出版します。
 
 </center>
