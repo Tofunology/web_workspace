@@ -500,7 +500,8 @@ pre code {
 }
 .intro-header .post-heading h1 {
     font-size: 30px;
-    margin-bottom: 24px
+    margin-bottom: 24px;
+    word-wrap: break-word;
 }
 .intro-header .post-heading .subheading,
 .intro-header .post-heading .meta {
