@@ -50,7 +50,6 @@ const onScroll = () => {
 
 const onClickAction = () => {
     heH = header.clientHeight;
-    console.log(heH);
     if (heH == 0 || heH == 60) {
         for (var i = 0; i < backClassLen; i++) {
             backClass[i].style.height = "100%";
