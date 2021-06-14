@@ -33,7 +33,7 @@ tags:
 この作品をより面白くさせるべく、現在以下のような改良を行なっています！
 
 - 自動装填装置の作成！
-- 自作ゲーム機制御用をPCBに変更！
+- ゲーム機制御用の自作基板をPCBに変更！
 - 投影映像のUIをよりかっこよく！<br>etc...
 
 <br>
@@ -45,7 +45,7 @@ tags:
 
 - 一昨年の最低限の機能の再現
 - 自作発射装置の作成
-- ゲーム機制御用の自作基板をPCBに変更
+- 自作ゲーム機制御用のPCB作成
 ### 作業の様子
 {{< load-photoswipe >}}
 {{< gallery hover-effect="grow" caption-position="center" caption-effect="fade" >}}
