@@ -7,7 +7,6 @@ date:       2021-09-03
 #URL:        "/2020/MFT2020_notice/"
 image:      "/images/post/mft_top.png"
 description:  "MakerFaireTokyo2021のオンサイト開催中止が決定しました"
-thumbnail:  "/images/post/MFT2021_notice/MFT2019_play3.jpg"
 
 tags:
     - MFT2021
