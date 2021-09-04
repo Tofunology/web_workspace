@@ -1,11 +1,11 @@
 # 環境セットアップの下拵え
 ## windowsの場合
 　WSLの環境とVScodeの環境を整えましょう．<br>
-　- 参考リンク：https://qiita.com/matarillo/items/61a9ead4bfe2868a0b86
-　VScodeの環境を整えよう（関係ない部分はスキップ）
-　- 参考リンク：https://tenshoku-miti.com/takeshi/windows10-vscode-ternimal-ubuntu/
+　- 参考リンク：https://qiita.com/matarillo/items/61a9ead4bfe2868a0b86<br>
+　VScodeの環境を整えよう（関係ない部分はスキップ）<br>
+　- 参考リンク：https://tenshoku-miti.com/takeshi/windows10-vscode-ternimal-ubuntu/<br>
 ## macの場合
-　homebrewを使えるようにしましょう．brewコマンドが使えれば問題ないです．基本的にはXcodeをインストールした後ならbrewを標準で使えると思います．
+　homebrewを使えるようにしましょう．brewコマンドが使えれば問題ないです．基本的にはXcodeをインストールした後ならbrewを標準で使えると思います．<br>
 
 # HUGOのインストール
 ## windows/linux系の場合
