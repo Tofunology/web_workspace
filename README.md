@@ -53,6 +53,7 @@ git config --global user.email メールアドレス
 
 # 新規記事作成
 まずは，以下のコマンドで情報を更新します．<br>
+`git pull`<br>
 `git fetch origin master`<br>
 次に，情報を最新のものにリセットします．<br>
 `git reset --hard origin/master`<br>
@@ -70,3 +71,6 @@ web_workspaceディレクトリにいる状態で，以下のコマンドを打�
 最後にアップロード<br>
 `git push`<br>
 終えたら，ぎてふに更新した旨を伝えましょう．
+
+# もしpushできなかったら
+`git pull`してからもう一度
