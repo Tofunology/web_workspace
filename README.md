@@ -55,7 +55,7 @@ git config --global user.email メールアドレス
 まずは，以下のコマンドで情報を更新します．<br>
 `git fetch origin master`<br>
 次に，情報を最新のものにリセットします．<br>
-`git reset --hard origin master`<br>
+`git reset --hard origin/master`<br>
 web_workspaceディレクトリにいる状態で，以下のコマンドを打ちましょう．<br>
 `hugo new post/記事名.md`
 
