@@ -60,7 +60,7 @@ web_workspaceディレクトリにいる状態で，以下のコマンドを打�
 `hugo new post/記事名.md`
 
 # 記事確認方法
-`hugo server -w`でサーバーを起動できます．その後に`http://localhost:1313/site/`にアクセスしてみましょう．
+`hugo server -D -w`でサーバーを起動できます．その後に`http://localhost:1313/site/`にアクセスしてみましょう．
 
 # 記事のアップロード方法
 まずは作成/変更した記事をaddしましょう．<br>
@@ -68,5 +68,9 @@ web_workspaceディレクトリにいる状態で，以下のコマンドを打�
 次に変更を保存します．<br>
 `git commit -m "好きなコメント"`<br>
 最後にアップロード<br>
-`git push"`<br>
+`git push`<br>
 終えたら，ぎてふに更新した旨を伝えましょう．
+
+# もしtokenが必要と言われたら
+次のリンクを参考に，入手して，ローカルに保存してください．<br>
+https://docs.github.com/ja/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token
