@@ -53,6 +53,7 @@ git config --global user.email メールアドレス
 
 # 新規記事作成
 まずは，以下のコマンドで情報を更新します．<br>
+`git pull`<br>
 `git fetch origin master`<br>
 次に，情報を最新のものにリセットします．<br>
 `git reset --hard origin/master`<br>
@@ -74,3 +75,7 @@ web_workspaceディレクトリにいる状態で，以下のコマンドを打�
 # もしtokenが必要と言われたら
 次のリンクを参考に，入手して，ローカルに保存してください．<br>
 https://docs.github.com/ja/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token
+
+# もしpushできなかったら
+`git pull`してからもう一度
+
