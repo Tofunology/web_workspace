@@ -12,10 +12,9 @@
                 <div class="post-heading">
                     <div class="tags">
                         {{ range .Params.tags }}
-                        <a class="tag" href="{{ "/tags/" | relLangURL }}{{ . | urlize }}" title="{{ . }}">
+                        <a class="tag" href="{{ " /tags/ " | relLangURL }}{{ . | urlize }}" title="{{ . }}">
                             {{ . }}
-                        </a>
-                        {{ end }}
+                        </a> {{ end }}
                     </div>
                     <h1>{{ .Title }}</h1>
                     <h2 class="subheading">{{ .Params.subtitle }}</h2>
@@ -41,9 +40,7 @@
         </div>
     </div>
 </header>
-{{ end }}
-
-{{ define "main" }}
+{{ end }} {{ define "main" }}
 <!-- Post Content -->
 <article>
     <div class="container">
@@ -54,7 +51,7 @@
                 col-lg-11 col-lg-offset-1
                 col-md-10 col-md-offset-1
                 post-container">
-<!--
+                <!--
                 {{ if not (eq (.Param "showtoc") false) }}
                 <header>
                     <h2>TOC</h2>
@@ -62,23 +59,18 @@
                 {{.TableOfContents}}
                 {{ end }}
 -->
-                {{ .Content }}
-
-                {{ if .Site.Params.reward }}
-                {{ partial "reward.html" . }}
-                {{ end }}
+                {{ .Content }} {{ if .Site.Params.reward }} {{ partial "reward.html" . }} {{ end }}
 
                 <hr>
                 <ul class="pager">
                     {{ if .PrevInSection }}
                     <li class="previous">
-                        <a href="{{ .PrevInSection.URL }}" data-toggle="tooltip" data-placement="top" title="{{ .PrevInSection.Title}}">&larr;
-                            Previous Post</a>
+                        <a href="{{ .PrevInSection.Permalink }}" data-toggle="tooltip" data-placement="top" title="{{ .PrevInSection.Title}}">
+                            &larr; Previous Post</a>
                     </li>
-                    {{ end }}
-                    {{ if .NextInSection }}
+                    {{ end }} {{ if .NextInSection }}
                     <li class="next">
-                        <a href="{{ .NextInSection.URL }}" data-toggle="tooltip" data-placement="top" title="{{ .NextInSection.Title}}">Next
+                        <a href="{{ .NextInSection.Permalink }}" data-toggle="tooltip" data-placement="top" title="{{ .NextInSection.Title}}">Next
                             Post &rarr;</a>
                     </li>
                     {{ end }}
@@ -97,16 +89,13 @@
                 {{ if .Site.Params.featured_tags }}
                 <section>
                     <hr class="hidden-sm hidden-xs">
-                    <h5><!--<a href="/tags/">-->FEATURED TAGS</h5>
+                    <h5>
+                        <!--<a href="/tags/">-->FEATURED TAGS</h5>
                     <div class="tags">
-                        {{ $featured_condition_size := .Site.Params.featured_condition_size }}
-                        {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
-                        {{ if gt (len $taxonomy.Pages) $featured_condition_size }}
-                        <a href="{{ "/tags/" | relLangURL }}{{ $name | urlize }}" title="{{ $name }}">
+                        {{ $featured_condition_size := .Site.Params.featured_condition_size }} {{ range $name, $taxonomy := .Site.Taxonomies.tags }} {{ if gt (len $taxonomy.Pages) $featured_condition_size }}
+                        <a href="{{ " /tags/ " | relLangURL }}{{ $name | urlize }}" title="{{ $name }}">
                             {{ $name }}
-                        </a>
-                        {{ end }}
-                        {{ end }}
+                        </a> {{ end }} {{ end }}
                     </div>
                 </section>
                 {{ end }}
