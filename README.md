@@ -33,44 +33,70 @@
 
 # githubに登録しよう
 https://github.co.jp/ よりアカウントを作成してください．<br>
-登録後，メールアドレスとユーザ名をぎてふに教えてください．
-メールアドレスにinvitationが届くので，必ず承認してください．（承認後でないとログインできません）
+登録後，メールアドレスとユーザ名をぎてふに教えてください．<br>
+メールアドレスにinvitationが届くので，必ず承認してください．<br>
+（承認後でないとログインできません）<br>
 
 # gitのアカウント設定
 ```
 git config --global user.name "ユーザー名"
-git config --global user.email メールアドレス
+git config --global user.email "メールアドレス"
 ```
 
-# 作業用リポジトリの作成
+# 作業用リポジトリのクローン
 1. 作業をするフォルダでVScodeを開きましょう
+1. New Terminalでターミナルを開きましょう．
+1. Windowsのコマンドプロンプトであれば`bash`と打ちましょう
 1. `git clone https://github.com/Tofunology/web_workspace.git`する
 
 # これで完了です！
-作業時はクローンしたフォルダをVscodeで開いて作業しましょう．また，作業前にぎてふに作業をしていいか確認を取りましょう．
+作業時はクローンしたフォルダをVScodeで開いて作業しましょう．<br>
+また，作業前にぎてふに作業をしていいか確認を取りましょう．
 
 *****
+# 記事の作成方法
 
-# 新規記事作成
-まずは，以下のコマンドで情報を更新します．<br>
+## 作業していいか確認
+作業前にぎてふに作業をしていいか確認を取りましょう．
+
+## 作業するフォルダ等の準備
+1. 作業をするフォルダでVScodeを開きましょう
+1. New Terminalでターミナルを開きましょう．
+1. Windowsのコマンドプロンプトであれば`bash`と打ちましょう
+
+## 作業用ブランチを作成
+まずは，masterブランチへ移動します<br>
+`git checkout master`<br>
+次に以下のコマンドで情報を更新します．<br>
 `git pull`<br>
 `git fetch origin master`<br>
 次に，情報を最新のものにリセットします．<br>
 `git reset --hard origin/master`<br>
+次に，作業用ブランチを切ります<br>
+`git checkout -b (ブランチ名)`
+
+## 新規記事作成
 web_workspaceディレクトリにいる状態で，以下のコマンドを打ちましょう．<br>
 `hugo new post/記事名.md`
 
-# 記事確認方法
+## 記事確認方法
 `hugo server -D -w`でサーバーを起動できます．その後に`http://localhost:1313/site/`にアクセスしてみましょう．
 
-# 記事のアップロード方法
+## 記事のアップロード方法
 まずは作成/変更した記事をaddしましょう．<br>
 `git add 作成/変更したファイル名`<br>
 次に変更を保存します．<br>
 `git commit -m "好きなコメント"`<br>
 最後にアップロード<br>
 `git push`<br>
+
+## ブランチからログアウト
+masterブランチへ移動します<br>
+`git checkout master`<br>
+
 終えたら，ぎてふに更新した旨を伝えましょう．
+
+*****
 
 # もしtokenが必要と言われたら
 次のリンクを参考に，入手して，ローカルに保存してください．<br>
