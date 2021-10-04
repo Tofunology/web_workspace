@@ -4,7 +4,7 @@ title:      "MakerFaireTokyo2021のオンサイト開催中止"
 subtitle:   "Maker Faire Tokyo 2021 onsite event was canceled."
 date:       2021-09-03
 #author:     "ぎてふ"
-#URL:        "/2020/MFT2020_notice/"
+URL:        "/2021/MFT2021/notice/canceledOnSite"
 image:      "/images/post/mft_top.png"
 description:  "MakerFaireTokyo2021のオンサイト開催中止が決定しました"
 
@@ -27,5 +27,4 @@ tags:
 　私たちがMakerFaireTokyo2021に向けて作成していた「最強艦魚雷立体ゲーム」は<br>
 世田谷区の世田谷区立希望丘青少年交流センター（アップス）にて行われる<br>
 「**<font style="color: #CC6600">アップス縁日</font>**」にて展示を行います！<br>
-
-## 詳細は↓↓↓↓をご覧ください！
+詳細はまた後日！

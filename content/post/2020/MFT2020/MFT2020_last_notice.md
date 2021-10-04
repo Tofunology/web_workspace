@@ -4,7 +4,7 @@ title:      "MakerFaireTokyo2020まであと7日!!"
 subtitle:   "MakerFaireTokyo2020 is now coming after a week!!"
 date:       2020-09-25
 #author:     "Tamai Hayato"
-#URL:        "/2020/MFT2020_last_notice/"
+URL:        "/2020/MFT2020/notice/last"
 image:      "/images/post/chicken_box.jpg"
 description:  "MakerFaireTokyo2020に向けて作成中！"
 thumbnail:  "/images/post/fishwar_2.jpg"

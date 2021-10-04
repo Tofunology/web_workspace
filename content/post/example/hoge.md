@@ -67,7 +67,7 @@ int main(void){
 ## iframelyでカードを貼る方法
 まず，次のサイトでカードを作りましょう→[iframely](https://iframely.com/embed)<br>
 次に埋め込みのHTMLを以下に貼りましょう．こうなります↓↓↓↓↓↓
-<div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 42.6961%; padding-top: 120px;"><a href="https://tofunology.github.io/site/post/mft2020_notice_works/" data-iframely-url="//cdn.iframe.ly/qNDQqak"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+<div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 42.7344%; padding-top: 120px;"><a href="https://tofunology.github.io/site/2020/MFT2020/notice/works/" data-iframely-url="//cdn.iframe.ly/WyICFK6"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 # 画像の貼り方
 static/images/postにフォルダを作って，入れてくださいな．<br>

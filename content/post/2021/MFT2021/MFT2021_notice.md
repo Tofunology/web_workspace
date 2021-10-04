@@ -4,7 +4,7 @@ title:      "MakerFaireTokyo2021に出展します！"
 subtitle:   "We'll exhibit in MakerFaireTokyo2021."
 date:       2021-07-13
 #author:     "ぎてふ"
-#URL:        "/2020/MFT2020_notice/"
+URL:        "/2021/MFT2021/notice/join"
 image:      "/images/post/mft_top.png"
 description:  "MakerFaireTokyo2021での出展が決定しました！"
 thumbnail:  "/images/post/MFT2021_notice/MFT2019_play3.jpg"
@@ -23,7 +23,7 @@ tags:
 # 過去の作品をリメイク！
 　今回展示する作品は**<font style="color: #CC6600">「最強艦魚雷立体バトル」</font>**です。MakerFaireTokyo2019に出展した作品をリメイクしています。
 <!-- 以下の埋め込みはこのサイトから作成「https://iframely.com/embed」 -->
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://tofunology.github.io/site/post/mft2019_finish/" data-iframely-url="//cdn.iframe.ly/8gYHudz?card=small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+<div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 75%; padding-top: 120px;"><a href="https://tofunology.github.io/site/2019/MFT2019/finish/" data-iframely-url="//cdn.iframe.ly/toVsFuD"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 <br>
 # MakerFaireTokyo2019の様子
 {{< youtube tZ91H0jV6lI >}}
@@ -50,7 +50,7 @@ tags:
 *****
 # 現在v1.0の作成中！
 先日、v0.0の動作確認を終えました。
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0; z-index: 0"><a href="https://tofunology.github.io/site/2021/0501/" data-iframely-url="//cdn.iframe.ly/7j09hUa?card=small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script><br>
+<div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 52.5%; padding-top: 120px;"><a href="https://tofunology.github.io/site/2021/MFT2021/works/v00/" data-iframely-url="//cdn.iframe.ly/9Ki75o0"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 現在v1.0では以下の改良を行っています。
 
 - 自動装填機能の実装

@@ -4,7 +4,7 @@ title:      "MakerFaireTokyo2019ご来場ありがとうございました！"
 subtitle:   "I've given my vergin for MakerFaireTokyo2019."
 date:       2019-08-15
 #author:     "Tamai Hayato"
-#URL:        "/2020/begin_HP/"
+URL:        "/2019/MFT2019/finish/"
 image:      "/images/post/mft2019_1_gray.jpg"
 description:  "MakerFaireTokyo2019に出展してきました！ご来場ありがとうございました！"
 thumbnail:  "/images/post/MFT2019_day1.jpg"

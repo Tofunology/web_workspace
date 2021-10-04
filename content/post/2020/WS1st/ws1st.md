@@ -4,7 +4,7 @@ title:      "Workshop-1stを開催しました！"
 subtitle:   "\"Workshop-1st\" was held online!"
 date:       2020-12-29
 #author:    "ぎてふ"
-#URL:       "/2020/MFT2020_notice/"
+URL:       "/2020/WS1st"
 image:      "/images/post/WS-1st/WS_top_dark.jpeg"
 description: "初の団体内ワークショップ「Workshop-1st」を開催しました！！🎉🎉🎉"
 thumbnail:  "/images/post/WS-1st/WS_top.jpeg"

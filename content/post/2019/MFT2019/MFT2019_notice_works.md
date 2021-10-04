@@ -4,7 +4,7 @@ title:      "MakerFaireTokyo2019に出展します(作品編)"
 subtitle:   "We'll exhibit in MakerFaireTokyo2019."
 date:       2019-07-24
 #author:     "Tamai Hayato"
-#URL:        "/2020/MFT2019_notice/"
+URL:        "/2019/MFT2019/notice/works/"
 image:      "/images/post/mft_top_gray.png"
 description:  "MakerFaireTokyo2019では擬似ホログラムとボードゲームを組み合わせた作品を展示します！"
 thumbnail:  "/images/post/fishwar_2.jpg"
