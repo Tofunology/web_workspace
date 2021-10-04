@@ -4,7 +4,7 @@ title:      "MakerFaireTokyo2020に出展します(作品編)"
 subtitle:   "We'll exhibit in MakerFaireTokyo2020."
 date:       2020-09-09
 #author:    "ぎてふ"
-#URL:       "/2020/MFT2020_notice/"
+URL:        "/2020/MFT2020/notice/works"
 image:      "/images/post/mft2020_works_demo1.jpeg"
 description:  "MakerFaireTokyo2020で展示する作品を紹介します！"
 thumbnail:  "/images/post/mft2020_works_demo1_nomal.jpeg"

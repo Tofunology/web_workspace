@@ -4,7 +4,7 @@ title:      "MakerFaireTokyo2021のオンサイト開催中止"
 subtitle:   "Maker Faire Tokyo 2021 onsite event was canceled."
 date:       2021-09-03
 #author:     "ぎてふ"
-#URL:        "/2020/MFT2020_notice/"
+URL:        "/2021/MFT2021/notice/canceledOnSite"
 image:      "/images/post/mft_top.png"
 description:  "MakerFaireTokyo2021のオンサイト開催中止が決定しました"
 

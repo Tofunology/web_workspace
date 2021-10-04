@@ -4,7 +4,7 @@ title:      "最強艦魚雷立体バトルのアップデート作業を行い�
 subtitle:   "We worked to update \"3-D Battle Ship Game Applying Holographic Technology\"."
 date:       2021-05-02
 #author:     "ぎてふ"
-URL:        "/2021/0501/"
+URL:        "/2021/MFT2021/works/v00"
 image:      "/images/post/MFT2021_v00_works/MFT2021_v00_works.jpeg"
 description:  "MFT2019にて出展した「最強艦魚雷立体バトル」のアップデート作業を行いました！"
 thumbnail:  "/images/post/MFT2021_v00_works/thumbnail.jpeg"
@@ -26,7 +26,7 @@ tags:
 「SFチックな擬似ホログラム技術により、レトロ感のあるボードゲームの魅力をもっと引き出そう！」というものです。<br>
 ↓↓一昨年の記事↓↓
 <!-- 以下の埋め込みはこのサイトから作成「https://iframely.com/embed」 -->
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://tofunology.github.io/site/post/mft2019_finish/" data-iframely-url="//cdn.iframe.ly/8gYHudz?iframe=card-small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+<div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 75%; padding-top: 120px;"><a href="https://tofunology.github.io/site/2019/MFT2019/finish/" data-iframely-url="//cdn.iframe.ly/toVsFuD"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 <br>
 
 ### どんな改良をするの？

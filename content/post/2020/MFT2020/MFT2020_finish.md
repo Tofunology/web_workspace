@@ -4,7 +4,7 @@ title:      "MakerFaireTokyo2020ご来場ありがとうございました！"
 subtitle:   "We took part in \"MakerFaireTokyo2020\""
 date:       2020-10-23
 #author:     "ぎてふ"
-#URL:        "/2020/MFT2020_finish/"
+URL:        "/2020/MFT2020/finish/"
 image:      "/images/post/MFT2020_booth1_dark.jpg"
 description:  "2度目の参加となったMFT、今回も沢山の方に見ていただけました☺️"
 thumbnail:  "/images/post/MFT2020_works1.jpg"
@@ -24,7 +24,7 @@ tags:
 今年10月に東京ビッグサイトで開催された [MakerFaireTokyo2020](https://makezine.jp/event/mft2020/) にて出展させていただきました！🎉🎉🎉<br>
 作品の詳細は [↓以下の記事↓](https://tofunology.github.io/site/post/mft2020_notice_works/) をご覧ください！<br>
 <!-- 以下の埋め込みはこのサイトから作成「https://iframely.com/embed」 -->
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://tofunology.github.io/site/post/mft2020_notice_works/" data-iframely-url="//cdn.iframe.ly/tyB8R12?iframe=card-small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+<div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 42.7344%; padding-top: 120px;"><a href="https://tofunology.github.io/site/2020/MFT2020/notice/works/" data-iframely-url="//cdn.iframe.ly/WyICFK6"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 <br>
 # ブースの様子
 *****

@@ -4,7 +4,7 @@ title:      "公式HPはじめました"
 subtitle:   "tofunology's official HP has launched."
 date:       2019-04-24
 #author:     "Tamai Hayato"
-#URL:        "/2020/begin_HP/"
+URL:        "/2019/begin_HP/"
 image:      "/images/post/members_1_gray.jpeg"
 
 tags:

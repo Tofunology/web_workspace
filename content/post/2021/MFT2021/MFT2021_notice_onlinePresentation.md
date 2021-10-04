@@ -4,7 +4,7 @@ title:      "MFT2021ミニプレゼン参加！"
 subtitle:   "We'll give a presentation introducing our works in MakerFaireTokyo2021."
 date:       2021-09-21 #もし未来のdateを登録すると，記事を見ることができません．
 author:     "Gitefu" #みんながわかればOK
-URL:        "/MFT2021/JoinOnline/" # URL名を書きましょう(省略OK)
+URL:        "/2021/MFT2021/notice/join_onlinePresentation"
 image:      "/images/post/mft_top.png" #題名部分の背景画像
 description:  "MFT2021で行われるオンラインのミニプレゼンテーションの登壇者になりました！" #OGP関連，OGPやtwitterカードで検索すればわかる
 thumbnail:  "/images/post/MFT2021_v00_works/thumbnail.jpeg"

@@ -4,7 +4,7 @@ title:      "MakerFaireTokyo2020に出展します(会場編)"
 subtitle:   "We'll exhibit in MakerFaireTokyo2020."
 date:       2020-09-09
 #author:     "ぎてふ"
-#URL:        "/2020/MFT2020_notice/"
+URL:        "/2020/MFT2020/notice/place"
 image:      "/images/post/mft_top.png"
 description:  "MakerFaireTokyo2020での出展が決定しました！"
 thumbnail:  "/images/post/mft2020_works_demo1_nomal.jpeg"
@@ -32,7 +32,7 @@ tags:
 
 作品の詳細は ↓以下の記事↓ をご覧ください！<br>
 <!-- 以下の埋め込みはこのサイトから作成「https://iframely.com/embed」 -->
-<div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 42.6961%; padding-top: 120px;"><a href="https://tofunology.github.io/site/post/mft2020_notice_works/" data-iframely-url="//cdn.iframe.ly/qNDQqak"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+<div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 42.7344%; padding-top: 120px;"><a href="https://tofunology.github.io/site/2020/MFT2020/notice/works/" data-iframely-url="//cdn.iframe.ly/WyICFK6"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 # 展示場所
 *****
@@ -44,7 +44,7 @@ tags:
 *****
 　前回のMakerFaireTokyo2019では擬似ホログラムとボードゲームを組み合わせた作品「最強艦魚雷立体バトル」を展示しました．<br>
 <!-- 以下の埋め込みはこのサイトから作成「https://iframely.com/embed」 -->
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://tofunology.github.io/site/post/mft2019_finish/" data-iframely-url="//cdn.iframe.ly/8gYHudz?iframe=card-small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+<div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 75%; padding-top: 120px;"><a href="https://tofunology.github.io/site/2019/MFT2019/finish/" data-iframely-url="//cdn.iframe.ly/toVsFuD"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 # 体験できるように試行錯誤！
 *****
