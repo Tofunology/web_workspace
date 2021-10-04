@@ -17,7 +17,7 @@ home = ["HTML", "RSS", "Algolia"]
   header_image = "images/home/meetingLog.jpg"
   SEOTitle = "tofunology"
   description = "ものつくりを軸に活動する団体\"tofunology\"のHPです"
-  keyword = "電子工作，ものつくり，MFT，MakerFaireTokyo"
+  keyword = "電子工作，ものつくり，MFT，MakerFaireTokyo,チキン演奏,MFTokyo,ホログラム,学生,趣味,魚雷戦ゲーム"
   slogan = ""
 
   thumbnailBase = "/img/tofunology_logo_for_thumbnail.jpg"
