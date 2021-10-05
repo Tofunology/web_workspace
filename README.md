@@ -65,7 +65,7 @@ web_workspaceディレクトリにいる状態で，以下のコマンドを打�
 `content/post/example/hoge.md`を見てください．<br>
 ビルト後のレイアウトがどうなるかは，<br>
 「記事の確認方法」を参考にサーバーを起動したら，<br>
-`http://localhost:1313/site/tmp/formatDemo/`で確認してください．<br>
+`http://localhost:1313/site/tmp/formatdemo/`で確認してください．<br>
 
 ## &hearts; 記事の確認方法
 `hugo server -D -w`でサーバーを起動できます．<br>
