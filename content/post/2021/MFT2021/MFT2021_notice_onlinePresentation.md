@@ -11,6 +11,7 @@ thumbnail:  "/images/post/MFT2021_v00_works/thumbnail.jpeg"
 
 tags:
     - MFT2021
+    - MakerFaire
 ---
 
 # ミニプレゼンテーションに参加！
