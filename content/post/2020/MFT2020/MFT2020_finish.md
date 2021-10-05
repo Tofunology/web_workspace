@@ -3,7 +3,7 @@ layout:     post
 title:      "MakerFaireTokyo2020ご来場ありがとうございました！"
 subtitle:   "We took part in \"MakerFaireTokyo2020\""
 date:       2020-10-23
-#author:     "ぎてふ"
+author:     "Gitefu"
 URL:        "/2020/MFT2020/finish/"
 image:      "/images/post/MFT2020_booth1_dark.jpg"
 description:  "2度目の参加となったMFT、今回も沢山の方に見ていただけました☺️"
