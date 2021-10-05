@@ -5,9 +5,9 @@ subtitle:   "We'll exhibit in MakerFaireTokyo2020."
 date:       2021-10-04
 author:    "Gitefu"
 URL:        "/2021/MFT2021/finish"
-image:      "/images/post/2021/MFT2021/MFT2021_finish/presentation2_dark.png"
-description:  "MakerFaireTokyo2020で展示する作品を紹介します！"
-thumbnail:  "/images/post/2021/MFT2021/MFT2021_finish/demoPlay.png"
+image:      "/images/post/2021/MFT2021/MFT2021_finish/presentationBack_dark.jpg" #変更予定
+description:  "MFT2021のDay2でミニプレゼンテーションに登壇しました！"
+thumbnail:  "/images/post/2021/MFT2021/MFT2021_finish/presentationBack.jpg" #変更予定
 
 tags:
     - MFT2021
@@ -34,9 +34,11 @@ youtubeの感想からも，いろんな方が関心を持ってくださって�
 
 改めて，ご覧いただきありがとうございました！
 
-# イベント「アップス縁日」で出展予定
+# イベント「アップス縁日」で出展予定！
+*****
 世田谷区の希望丘青少年交流センター「アップス」にて行われる<br>
 イベント「**<font style="color: #CC6600">アップス縁日</font>**」にて<br>
-tofunologyのハード班所属でもある **<font style="color: #CC6600">  GOTO STATEMENT </font>**と一緒に展示を行います！<br>
+tofunologyのハード班所属でもある [**GOTO STATEMENT**](https://twitter.com/goto_statement)と一緒に展示を行います！<br>
 ぜひお越しください！
-{{< tweet 1444201322765373444 >}}
+
+<!-- ここにアップスの記事のframelyを貼る -->
