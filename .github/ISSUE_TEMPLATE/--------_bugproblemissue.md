@@ -2,7 +2,7 @@
 name: バグ/問題点報告_bugProblemIssue
 about: バグや問題点を見つけたら書いてください
 title: ''
-labels: ''
+labels: バグ/問題点の報告
 assignees: ''
 
 ---
