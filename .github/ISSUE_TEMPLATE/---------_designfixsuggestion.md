@@ -2,7 +2,7 @@
 name: デザイン改修の提案_designFixSuggestion
 about: デザイン改修の提案を書くときはこのテンプレ！
 title: ''
-labels: デザイン改修
+labels: ''
 assignees: ''
 
 ---
