@@ -95,7 +95,7 @@ web_workspaceディレクトリにいる状態で，以下のコマンドを打�
 ## 6-B. プルリクを作る
 `New Pull Request`をクリック 
 ## 6-C. masterへプルリク
-上部でmaster←作業ブランチ名となるようにして， プルリク<br>
+上部でmaster←作業ブランチ名となるようにして， `Create Pull Request`をクリック<br>
 <br>
 
 # 7. ぎてふへ報告
