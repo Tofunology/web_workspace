@@ -1,8 +1,7 @@
 ---
-draft:      true #`hugo server -Dw`でドラフト記事も追加されます．完成したらfalseに
 title:      "アップス縁日に出展します"
 subtitle:   "We will be exhibiting at the UPS fair."
-date:       2021-10-04 #もし未来のdateを登録すると，記事を見ることができません．
+date:       2021-10-09 #もし未来のdateを登録すると，記事を見ることができません．
 author:     "negi" #みんながわかればOK
 URL:        "/2021/upsEnnichi/notice/join" # 年/イベント名/大まかな内容/具体的な名前
 image:      "/images/post/Upsimages/ennichi_page-0006.jpg" #題名部分の背景画像
