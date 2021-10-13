@@ -5,7 +5,7 @@ subtitle:   "We'll exhibit in MakerFaireTokyo2020."
 date:       2020-09-09
 #author:     "ぎてふ"
 URL:        "/2020/MFT2020/notice/place"
-image:      "/images/post/mft_top.png"
+image:      "/images/mft_default/mft_top.png"
 description:  "MakerFaireTokyo2020での出展が決定しました！"
 thumbnail:  "/images/post/2020/MFT2020/notice_works/mft2020_works_demo1_nomal.jpeg"
 

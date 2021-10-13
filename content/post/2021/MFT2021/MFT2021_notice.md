@@ -5,7 +5,7 @@ subtitle:   "We'll exhibit in MakerFaireTokyo2021."
 date:       2021-07-13
 #author:     "ぎてふ"
 URL:        "/2021/MFT2021/notice/join"
-image:      "/images/post/mft_top.png"
+image:      "/images/mft_default/mft_top.png"
 description:  "MakerFaireTokyo2021での出展が決定しました！"
 thumbnail:  "/images/post/2021/MFT2021/MFT2021_notice/MFT2019_play3.jpg"
 

@@ -1,6 +1,6 @@
 ---
 title:      "Contact"
-image:      "/images/contact.jpg"
+image:      "/images/contact/contact.jpg"
 ---
 ## お問い合わせはメールにて承ります
 

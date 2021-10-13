@@ -39,7 +39,7 @@ home = ["HTML", "RSS", "Algolia"]
 
   # Sidebar settings
   sidebar_about_description = "工業高校を卒業した学生が、”ものづくり の楽しさ”を求めて再び集まり結成した有志団体です"
-  sidebar_avatar = "images/logo.png"      # use absolute URL, seeing it's used in both `/` and `/about/`
+  sidebar_avatar = "img/logo.png"      # use absolute URL, seeing it's used in both `/` and `/about/`
   #sidebar_avatar = "img/zhaohuabing.png"      # use absolute URL, seeing it's used in both `/` and `/about/`
 
   featured_tags = true
@@ -105,7 +105,7 @@ home = ["HTML", "RSS", "Algolia"]
 
 
   [[params.addtional_menus]]
-  header_image = "images/meetingLog.jpg"
+  header_image = "images/home/meetingLog.jpg"
   title =  "ABOUT"
   href =  "/top/about/"
   [[params.addtional_menus]]

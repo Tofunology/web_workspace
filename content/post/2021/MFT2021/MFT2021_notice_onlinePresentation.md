@@ -5,7 +5,7 @@ subtitle:   "We'll give a presentation introducing our works in MakerFaireTokyo2
 date:       2021-09-21 #もし未来のdateを登録すると，記事を見ることができません．
 author:     "Gitefu" #みんながわかればOK
 URL:        "/2021/MFT2021/notice/join_onlinePresentation"
-image:      "/images/post/mft_top.png" #題名部分の背景画像
+image:      "/images/mft_default/mft_top.png" #題名部分の背景画像
 description:  "MFT2021で行われるオンラインのミニプレゼンテーションの登壇者になりました！" #OGP関連，OGPやtwitterカードで検索すればわかる
 thumbnail:  "/images/post/2021/MFT2021/MFT2021_v00_works/thumbnail.jpeg"
 
