@@ -1,6 +1,6 @@
 ---
 draft:      false #`hugo server -Dw`でドラフト記事も追加されます．完成したらfalseに
-title:      "MFT2021ミニプレゼン参加！"
+title:      "MakerFaireTokyo2021オンライン登壇決定！"
 subtitle:   "We'll give a presentation introducing our works in MakerFaireTokyo2021."
 date:       2021-09-21 #もし未来のdateを登録すると，記事を見ることができません．
 author:     "Gitefu" #みんながわかればOK

@@ -1,13 +1,13 @@
 ---
 layout:     post
 title:      "MakerFaireTokyo2021のミニプレゼンに登壇！"
-subtitle:   "We'll exhibit in MakerFaireTokyo2020."
+subtitle:   "We took the stage at a mini presentation of MakerFaireTokyo2021."
 date:       2021-10-04
 author:    "Gitefu"
 URL:        "/2021/MFT2021/finish"
-image:      "/images/post/2021/MFT2021/MFT2021_finish/presentationBack_dark.jpg" #変更予定
+image:      "/images/post/2021/MFT2021/MFT2021_finish/presentationBack_dark.jpg"
 description:  "MFT2021のDay2でミニプレゼンテーションに登壇しました！"
-thumbnail:  "/images/post/2021/MFT2021/MFT2021_finish/presentationBack.jpg" #変更予定
+thumbnail:  "/images/post/2021/MFT2021/MFT2021_finish/presentationBack.jpg"
 
 tags:
     - MFT2021
