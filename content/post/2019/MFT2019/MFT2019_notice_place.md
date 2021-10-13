@@ -39,7 +39,7 @@ tags:
 しかも開催場所はなんと！！！
 
 <font size="5">『 東京ビッグサイト 』</font>
-{{< figure src="/images/post/bigsight.jpg" >}}
+{{< figure src="/images/post/2019/MFT2019/MFT2019_notice_place/bigsight.jpg" >}}
 
 年に2回、大規模なコミックマーケットを開催することで有名なあの場所です！！
 現在、出展に向けてメンバー一同鋭意製作中です🔧🔧

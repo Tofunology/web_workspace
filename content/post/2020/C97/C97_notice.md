@@ -4,10 +4,10 @@ title:      "C97にサークル参加します"
 subtitle:   "I'll take part in \"comic market 97\" as a circle."
 date:       2019-12-10
 #author:     "Gitefu"
-URL:        "/2020/C97/notice/"
-image:      "/images/post/C97_end_gray.jpeg"
+URL:        "/2020/C97/notice/join"
+image:      "/images/post/2019/C97/join/C97_end_gray.jpeg"
 description:  "コミックマーケット97の4日目に製作記を頒布します！"
-thumbnail:  "/images/post/C97_book.jpg"
+thumbnail:  "/images/post/2019/C97/join/C97_book.jpg"
 
 tags:
     - コミックマーケット
@@ -24,7 +24,7 @@ tags:
 　先日[MakerFaireTokyo2019](https://makezine.jp/event/mft2019/)で展示した[「最強艦魚雷立体バトル」]({{< ref "/post/2019/MFT2019/MFT2019_finish.html" >}})の製作記をコミックマーケット97にて頒布します！<br>
 4日目に<b><u>南地区"ラ"ブロック39b</u></b>にて，1冊300円で頒布します。皆さんとお会いしてお話できることを楽しみにしています。<br>
 　ぜひお越しください。
-{{< figure src="/images/post/C97_book.jpg" >}}
+{{< figure src="/images/post/2019/C97/join/C97_book.jpg" >}}
 
 *****
 

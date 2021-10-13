@@ -4,10 +4,10 @@ title:      "C97にサークル参加しました"
 subtitle:   "We took part in \"comic market 97\" as a circle." #コミケのHP上だとサークルはcircleだったのでそのまま
 date:       2020-01-11
 #author:     "Gitefu"
-URL:        "/2020/C97/notice/"
-image:      "/images/post/C97_1_gray.jpeg"
+URL:        "/2020/C97/notice/finish"
+image:      "/images/post/2019/C97/finish/C97_1_gray.jpeg"
 description:  "コミックマーケット97の4日目に製作記を頒布しました！"
-thumbnail:  "/images/post/C97_booth.jpg"
+thumbnail:  "/images/post/2019/C97/finish/C97_booth.jpg"
 
 tags:
     - コミックマーケット
@@ -26,7 +26,7 @@ C97の4日目に製作記を頒布しました！<br>
 *****
 　やはり当日にはトラブルが付き物ですね。製作記を持ったメンバーが**寝坊**しました。<br>
 入場のリストバンドは私が3人分持っていたので、私ともう1人は外で待機です。
-{{< figure src="/images/post/C97_Arai_wait.png" >}}
+{{< figure src="/images/post/2019/C97/finish/C97_Arai_wait.png" >}}
 待っている間、朝日と海を眺めていました。<br>
 でも最終的に3人集まって入場できたので、**ヨシ！**<br>
 
@@ -35,7 +35,7 @@ C97の4日目に製作記を頒布しました！<br>
 *****
 　tofunologyとしては初のサークル参加でした。<br>
 3人でサクサク準備を進めて、開場前にセッティングができました。<br>
-{{< figure src="/images/post/C97_booth.jpg" >}}
+{{< figure src="/images/post/2019/C97/finish/C97_booth.jpg" >}}
 ...テーブルクロス、やっぱり欲しいですね！(反省)<br>
 
 ## 開場〜終了

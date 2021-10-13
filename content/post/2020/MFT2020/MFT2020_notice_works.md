@@ -32,7 +32,6 @@ tags:
 ### 　でも...実物のチキン達で歌わせたい...！
 この願いを叶えるために、<br>
 メンバー15名は多忙な中、知識と時間を費やして<ruby>本気<rp>（</rp><rt>ガチ</rt><rp>）</rp></ruby>で製作をしています。<br><br>
-<!-- {{< figure src="/images/post/C97_Arai_wait.png" >}} -->
 
 
 <div id="movie"></div>
