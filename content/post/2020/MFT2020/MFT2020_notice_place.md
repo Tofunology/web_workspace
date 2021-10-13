@@ -7,7 +7,7 @@ date:       2020-09-09
 URL:        "/2020/MFT2020/notice/place"
 image:      "/images/post/mft_top.png"
 description:  "MakerFaireTokyo2020での出展が決定しました！"
-thumbnail:  "/images/post/mft2020_works_demo1_nomal.jpeg"
+thumbnail:  "/images/post/2020/MFT2020/notice_works/mft2020_works_demo1_nomal.jpeg"
 
 tags:
     - MFT2020
@@ -22,7 +22,7 @@ tags:
 *****
 
 　今年10月に東京ビッグサイトで開催される [MakerFaireTokyo2020](https://makezine.jp/event/mft2020/) での出展が決定しました！🎉🎉🎉<br>
-{{< figure src="/images/post/MFT2020_logo_long.jpg" >}}
+{{< figure src="/images/post/2020/MFT2020/MFT2020_logo_long.jpg" >}}
 
 # 作品紹介
 *****

@@ -7,7 +7,7 @@ date:       2019-07-24
 URL:        "/2019/MFT2019/notice/works/"
 image:      "/images/post/mft_top_gray.png"
 description:  "MakerFaireTokyo2019では擬似ホログラムとボードゲームを組み合わせた作品を展示します！"
-thumbnail:  "/images/post/fishwar_2.jpg"
+thumbnail:  "/images/post/2019/MFT2019/MFT2019_notice_works/fishwar_2.jpg"
 
 tags:
     - MFT2019
@@ -29,8 +29,8 @@ tags:
 
 今回出展するのはこいつだ！！（ドンッ）
 
-<!-- {{< figure src="/images/post/fishwar_1.jpg" >}}
-{{< figure src="/images/post/fishwar_2.jpg" >}} -->
+<!-- {{< figure src="/images/post/2019/MFT2019/MFT2019_notice_works/fishwar_1.jpg" >}}
+{{< figure src="/images/post/2019/MFT2019/MFT2019_notice_works/fishwar_2.jpg" >}} -->
 
 その名も...
 
@@ -53,7 +53,7 @@ tags:
 ってボードゲームのことです笑
 
 ↓↓ 30年前に発売された魚雷戦ゲームの実物はこんな感じ ↓↓
-{{< figure src="/images/post/fishwar_1.jpg" >}}
+{{< figure src="/images/post/2019/MFT2019/MFT2019_notice_works/fishwar_1.jpg" >}}
 手前側にある射出機構からパチンコ玉を打ち、相手陣地にある戦艦の駒に当てるんですね
 レトロな匂いが漂ってきます笑
 

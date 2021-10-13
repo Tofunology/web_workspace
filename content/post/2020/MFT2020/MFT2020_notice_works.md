@@ -5,9 +5,9 @@ subtitle:   "We'll exhibit in MakerFaireTokyo2020."
 date:       2020-09-09
 #author:    "ぎてふ"
 URL:        "/2020/MFT2020/notice/works"
-image:      "/images/post/mft2020_works_demo1.jpeg"
+image:      "/images/post/2020/MFT2020/notice_works/mft2020_works_demo1.jpeg"
 description:  "MakerFaireTokyo2020で展示する作品を紹介します！"
-thumbnail:  "/images/post/mft2020_works_demo1_nomal.jpeg"
+thumbnail:  "/images/post/2020/MFT2020/notice_works/mft2020_works_demo1_nomal.jpeg"
 
 tags:
     - MFT2020
@@ -18,7 +18,7 @@ tags:
 
 　こんにちは、ぎてふです。
 
-{{< figure src="/images/post/MFT2020_logo_long.jpg" >}}
+{{< figure src="/images/post/2020/MFT2020/MFT2020_logo_long.jpg" >}}
 
 　MakerFaireTokyo2020での出展が決定しました！！🎉<br>
 この記事では、MakerFaireTokyo2020に展示する作品 「[SHOUTING PIANO](https://makezine.jp/event/makers-mft2020/m0146/)」 を紹介します！
@@ -46,14 +46,14 @@ tags:
 　まずピアノやマイクからの入力を自作のアプリケーションで処理します。<br>
 その後、USBを通しマイコンへ信号が伝達され、どのチキンを鳴らすかをコントロールします。
 
-{{< figure src="/images/post/MFT2020_about_detail.png" >}}（画像は[動画](#movie)より抜粋）
+{{< figure src="/images/post/2020/MFT2020/notice_works/MFT2020_about_detail.png" >}}（画像は[動画](#movie)より抜粋）
 
 # 自作の泣き声制御弁！？
 *****
 　チキンの泣き声をON/OFFするには弁が必要です。<br>
 常にエアーコンプレッサーからの空気をタンク内部に溜め、タンク内部の圧力を少し高めに保っています。この状態で、タンク内部に仕込んだ弁を閉じたり開いたりすることで、各チキンの声帯に空気が流れたり止まったりし、泣き声が鳴ります。<br>
 　この作品で用いる弁は3Dプリンタやソレノイドで自作します。ぜひご注目ください。
-{{< figure src="/images/post/MFT2020_how2_scream.png" >}}（画像は[動画](#movie)より抜粋）
+{{< figure src="/images/post/2020/MFT2020/notice_works/MFT2020_how2_scream.png" >}}（画像は[動画](#movie)より抜粋）
 
 # 他にもいろんな工夫が！
 *****

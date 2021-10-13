@@ -5,9 +5,9 @@ subtitle:   "I've given my vergin for MakerFaireTokyo2019."
 date:       2019-08-15
 #author:     "Tamai Hayato"
 URL:        "/2019/MFT2019/finish/"
-image:      "/images/post/mft2019_1_gray.jpg"
+image:      "/images/post/2019/MFT2019/MFT2019_finish/mft2019_1_gray.jpg"
 description:  "MakerFaireTokyo2019に出展してきました！ご来場ありがとうございました！"
-thumbnail:  "/images/post/MFT2019_day1.jpg"
+thumbnail:  "/images/post/2019/MFT2019/MFT2019_finish/mft2019_day1.jpg"
 
 tags:
     - MFT2019
@@ -37,7 +37,7 @@ tags:
 
 中でもチビッ子達の食いつきが半端なかったですね笑
 
-{{< figure src="/images/post/mft2019_child.jpg" >}}
+{{< figure src="/images/post/2019/MFT2019/MFT2019_finish/mft2019_child.jpg" >}}
 
 魚雷戦ゲーム自体はもう30年以上も前のボードゲームなんですが、こうやって今の子供達がプレイして楽しんでいるのを見ると、世代を越えて楽しめるゲームを作ることができたのかなーって思えて少し嬉しかったです😊
 

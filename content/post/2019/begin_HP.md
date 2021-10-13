@@ -5,7 +5,7 @@ subtitle:   "tofunology's official HP has launched."
 date:       2019-04-24
 #author:     "Tamai Hayato"
 URL:        "/2019/begin_HP/"
-image:      "/images/post/members_1_gray.jpeg"
+image:      "/images/post/2019/etc/begin_HP/members_1_gray.jpeg"
 
 tags:
     - ようこそ
@@ -36,7 +36,7 @@ tofunologyは、数年前にとある工業高校を卒業した社会人が”�
 
 MakerFaireTokyoなどに代表されるものつくり系の展示会への出展を目指し、全員で1つのものを製作しています。  
 また、その作品の製作記や用いた技術等についてまとめた本を技術書典やコミックマーケットなどで出版する活動を行っています。  
-{{< figure src="/images/post/members_1.jpeg" >}}
+{{< figure src="/images/post/2019/etc/begin_HP/members_1.jpeg" >}}
 
 要するに、昔の同級生でまたものづくりしようぜってノリで集まっているわけですね(笑)
 

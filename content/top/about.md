@@ -10,9 +10,9 @@ image:      "/images/About/prodacts.png"
 
 {{< load-photoswipe >}}
 {{< gallery hover-effect="grow" caption-position="center" caption-effect="fade" >}}
-{{< figure link="images/post/MFT2020_booth3.jpg" thumb="-thumb" caption="MFT2020の作品 SHOUTING PIANO" >}}
-{{< figure link="images/post/MFT2020_booth4.png" caption="MFT2020の作品 SHOUTING PIANO(中身)" >}}
-{{< figure link="/images/post/MFT2019_day1.jpg" caption="MFT2019の作品 最強艦魚雷立体バトル" >}}
+{{< figure link="images/post/2020/MFT2020/finish/MFT2020_booth3.jpg" thumb="-thumb" caption="MFT2020の作品 SHOUTING PIANO" >}}
+{{< figure link="images/post/2020/MFT2020/finish/MFT2020_booth4.png" caption="MFT2020の作品 SHOUTING PIANO(中身)" >}}
+{{< figure link="/images/post/2019/MFT2019/MFT2019_finish/mft2019_day1.jpg" caption="MFT2019の作品 最強艦魚雷立体バトル" >}}
 {{< figure link="/images/post/2019/C97/finish/C97_booth.jpg" caption="C97 MFT2019製作記" >}}
 {{< figure link="/images/meeting.jpg" caption="メンバー共同でのミーティング" >}}
 {{< figure link="/images/post/2020/WS_1st/WS_kiCad.png" caption="団体内Workshop 回路講座" >}}

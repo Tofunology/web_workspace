@@ -5,9 +5,9 @@ subtitle:   "MakerFaireTokyo2020 is now coming after a week!!"
 date:       2020-09-25
 #author:     "Tamai Hayato"
 URL:        "/2020/MFT2020/notice/last"
-image:      "/images/post/chicken_box.jpg"
+image:      "/images/post/2020/MFT2020/last_notice/chicken_box.jpg"
 description:  "MakerFaireTokyo2020に向けて作成中！"
-thumbnail:  "/images/post/fishwar_2.jpg"
+thumbnail:  "/images/post/2019/MFT2019/MFT2019_notice_works/fishwar_2.jpg"
 
 tags:
     - MFT2020
@@ -36,7 +36,7 @@ MakerFaireTokyo2020開催まであと１週間です！！😱😱😱
 # ハード班〜！
 *****
 
-{{< figure src="/images/post/chicken_1.png" >}}
+{{< figure src="/images/post/2020/MFT2020/last_notice/chicken_1.png" >}}
 
 ヒトの愉悦のためだけに捕らえられた哀れなチキン達の首元には、なにやら黒いジョイント部らしきものがついています。
 
@@ -47,10 +47,10 @@ MakerFaireTokyo2020開催まであと１週間です！！😱😱😱
 頑張れ、ハード班！💪
 
 ※余談ですが先日チームのdiscordにこんな会話が...
-{{< figure src="/images/post/discord_funnytalk_1.png" >}}
+{{< figure src="/images/post/2020/MFT2020/last_notice/discord_funnytalk_1.png" >}}
 
 どっちだろう...
-{{< figure src="/images/post/chicken_box_3.jpg" >}}
+{{< figure src="/images/post/2020/MFT2020/last_notice/chicken_box_3.jpg" >}}
 
 疲れてんのかな。ファミ◯キであって欲しい。
 
@@ -61,7 +61,7 @@ MakerFaireTokyo2020開催まであと１週間です！！😱😱😱
 # ソフト班〜！
 *****
 
-{{< figure src="/images/post/soft_1.png" >}}
+{{< figure src="/images/post/2020/MFT2020/last_notice/soft_1.png" >}}
 
 ソフト班はチキン達が出す音色のチューニングやLEDによるパフォーマンス機能の実装を進めています。
 
@@ -78,7 +78,7 @@ MakerFaireTokyo2020開催まであと１週間です！！😱😱😱
 # 回路班〜！
 *****
 
-{{< figure src="/images/post/pasta_3.png" >}}
+{{< figure src="/images/post/2020/MFT2020/last_notice/pasta_3.png" >}}
 
 ご覧の様に回路班ではカッペリーニを茹でまくっています。
 
@@ -88,7 +88,7 @@ MakerFaireTokyo2020開催まであと１週間です！！😱😱😱
 
 そういえば先日ついに、回路班から光るチキン画像をいただきました😲
 
-{{< figure src="/images/post/checken_3.jpeg" class="center" width="300px">}}
+{{< figure src="/images/post/2020/MFT2020/last_notice/chicken_3.jpeg" class="center" width="300px">}}
 (こえぇ...こんなん夢に出るわ......)
 
 

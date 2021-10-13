@@ -7,7 +7,7 @@ date:       2019-07-22
 URL:        "/2019/MFT2019/notice/place/"
 image:      "/images/post/mft_top_gray.png"
 description:  "MakerFaireTokyo2019に出展することが決定しました！"
-thumbnail:  "/images/post/fishwar_2.jpg"
+thumbnail:  "/images/post/2019/MFT2019/MFT2019_notice_works/fishwar_2.jpg"
 
 tags:
     - MFT2019

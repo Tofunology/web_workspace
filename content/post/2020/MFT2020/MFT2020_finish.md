@@ -5,9 +5,9 @@ subtitle:   "We took part in \"MakerFaireTokyo2020\""
 date:       2020-10-23
 author:     "Gitefu"
 URL:        "/2020/MFT2020/finish/"
-image:      "/images/post/MFT2020_booth1_dark.jpg"
+image:      "/images/post/2020/MFT2020/finish/MFT2020_booth1_dark.jpg"
 description:  "2度目の参加となったMFT、今回も沢山の方に見ていただけました☺️"
-thumbnail:  "/images/post/MFT2020_works1.jpg"
+thumbnail:  "/images/post/2020/MFT2020/finish/MFT2020_works1.jpg"
 
 tags:
     - MFT2020
@@ -35,9 +35,9 @@ tags:
 {{<youtube QB3EP3gZRYM>}}
 {{< load-photoswipe >}}
 {{< gallery hover-effect="grow" caption-position="center" caption-effect="fade" >}}
-{{< figure link="/images/post/MFT2020_booth2.jpg" caption="来場者の方と展示を通して たくさんお話しできました">}}
-{{< figure link="/images/post/MFT2020_booth3.jpg" thumb="-thumb" caption="チキンたちと 7色に輝く筐体">}}
-{{< figure link="/images/post/MFT2020_booth4.png" thumb="-thumb" caption="筐体の中身も大公開！">}}
+{{< figure link="/images/post/2020/MFT2020/finish/MFT2020_booth2.jpg" caption="来場者の方と展示を通して たくさんお話しできました">}}
+{{< figure link="/images/post/2020/MFT2020/finish/MFT2020_booth3.jpg" thumb="-thumb" caption="チキンたちと 7色に輝く筐体">}}
+{{< figure link="/images/post/2020/MFT2020/finish/MFT2020_booth4.png" thumb="-thumb" caption="筐体の中身も大公開！">}}
 {{< /gallery >}}
 <br>
 
