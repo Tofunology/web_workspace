@@ -15,7 +15,7 @@ image:      "/images/About/prodacts.png"
 {{< figure link="/images/post/MFT2019_day1.jpg" caption="MFT2019の作品 最強艦魚雷立体バトル" >}}
 {{< figure link="/images/post/C97_booth.jpg" caption="C97 MFT2019製作記" >}}
 {{< figure link="/images/meeting.jpg" caption="メンバー共同でのミーティング" >}}
-{{< figure link="/images/post/WS-1st/WS_kiCad.png" caption="団体内Workshop 回路講座" >}}
+{{< figure link="/images/post/2020/WS_1st/WS_kiCad.png" caption="団体内Workshop 回路講座" >}}
 {{< /gallery >}}
 
 <br>

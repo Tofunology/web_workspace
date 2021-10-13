@@ -7,7 +7,7 @@ date:       2021-07-13
 URL:        "/2021/MFT2021/notice/join"
 image:      "/images/post/mft_top.png"
 description:  "MakerFaireTokyo2021での出展が決定しました！"
-thumbnail:  "/images/post/MFT2021_notice/MFT2019_play3.jpg"
+thumbnail:  "/images/post/2021/MFT2021/MFT2021_notice/MFT2019_play3.jpg"
 
 tags:
     - MFT2021
@@ -42,9 +42,9 @@ tags:
 　**<font style="color: #008080">「ペッパーズ・ゴースト」</font>**と呼ばれる視覚トリックを使って再現しました。透明な板で投影機からの光を全反射で目に届けつつ、透明な板の奥にある実機の光も目に届けることで浮かぶディスプレイを実現しています。
 {{< load-photoswipe >}}
 {{< gallery hover-effect="grow" caption-position="center" caption-effect="fade" >}}
-{{< figure link="/images/post/MFT2021_notice/MFT2019_play3.jpg" caption="メンバーがプレイしている様子" >}}
-{{< figure link="/images/post/MFT2021_notice/gyoraisen_game.jpg" caption="市販の魚雷戦ゲーム">}}
-{{< figure link="/images/post/MFT2021_notice/hako_vision.jpg" caption="擬似ホログラムの仕組み 透明な板の全反射を利用" >}}
+{{< figure link="/images/post/2021/MFT2021/MFT2021_notice/MFT2019_play3.jpg" caption="メンバーがプレイしている様子" >}}
+{{< figure link="/images/post/2021/MFT2021/MFT2021_notice/gyoraisen_game.jpg" caption="市販の魚雷戦ゲーム">}}
+{{< figure link="/images/post/2021/MFT2021/MFT2021_notice/hako_vision.jpg" caption="擬似ホログラムの仕組み 透明な板の全反射を利用" >}}
 {{< /gallery >}}
 
 *****

@@ -7,7 +7,7 @@ author:     "Gitefu" #みんながわかればOK
 URL:        "/2021/MFT2021/notice/join_onlinePresentation"
 image:      "/images/post/mft_top.png" #題名部分の背景画像
 description:  "MFT2021で行われるオンラインのミニプレゼンテーションの登壇者になりました！" #OGP関連，OGPやtwitterカードで検索すればわかる
-thumbnail:  "/images/post/MFT2021_v00_works/thumbnail.jpeg"
+thumbnail:  "/images/post/2021/MFT2021/MFT2021_v00_works/thumbnail.jpeg"
 
 tags:
     - MFT2021

@@ -4,9 +4,9 @@ subtitle:   "We will be exhibiting at the UPS fair."
 date:       2021-10-09 #もし未来のdateを登録すると，記事を見ることができません．
 author:     "negi" #みんながわかればOK
 URL:        "/2021/upsEnnichi/notice/join" # 年/イベント名/大まかな内容/具体的な名前
-image:      "/images/post/Upsimages/ennichi_page-0006.jpg" #題名部分の背景画像
+image:      "/images/post/2021/UpsEnnichi/ennichi_notice/ennichi_page-0006.jpg" #題名部分の背景画像
 description:  "青少年交流センター「アップス」のイベント「アップス縁日」に出展します" #OGP関連，OGPやtwitterカードで検索すればわかる
-thumbnail:  "/images/post/Upsimages/ennichi_page-0003.jpg" #OGP関連，OGPやtwitterカードで検索すればわかる
+thumbnail:  "/images/post/2021/UpsEnnichi/ennichi_notice/ennichi_page-0003.jpg" #OGP関連，OGPやtwitterカードで検索すればわかる
 
 tags:
     - アップス縁日
@@ -30,8 +30,8 @@ tags:
 参加費は無料(出店の中に有料なものあり)ですが、申込みが必要なので注意してください！
 {{< load-photoswipe >}}
 {{< gallery hover-effect="grow" caption-position="center" caption-effect="fade" >}}
-{{< figure link="/images/post/Upsimages/ennichi_page-0001.jpg" caption="アップス縁日のチラシ（表）" >}}
-{{< figure link="/images/post/Upsimages/ennichi_page-0002.jpg"  caption="アップス縁日のチラシ（裏）" >}}
+{{< figure link="/images/post/2021/UpsEnnichi/ennichi_notice/ennichi_page-0001.jpg" caption="アップス縁日のチラシ（表）" >}}
+{{< figure link="/images/post/2021/UpsEnnichi/ennichi_notice/ennichi_page-0002.jpg"  caption="アップス縁日のチラシ（裏）" >}}
 {{< /gallery >}}
 
 

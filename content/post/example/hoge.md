@@ -74,16 +74,16 @@ static/images/postにフォルダを作って，入れてくださいな．<br>
 貼る方法は2種類あるので好きに使ってくださいな．
 ## 単純な挿入
 以下のように指定すると入ります．
-{{< figure src="/images/post/WS-1st/WS_OOP.jpeg" >}}
+{{< figure src="/images/post/2020/WS_1st/WS_OOP.jpeg" >}}
 ## load-photoswipeを使う方法
 captionで文字を，linkで画像のURLを指定しましょう．<br>
 サムネイルが気に入らない時は，元画像が`題名.png`なら`題名-thumb.png`的なものを用意して，`thumb="-thumb"`と書きましょう．<br>
 開いた時，少し比率おかしくなる問題は調査中です，すまん！
 {{< load-photoswipe >}}
 {{< gallery hover-effect="grow" caption-position="center" caption-effect="fade" >}}
-{{< figure link="/images/post/WS-1st/WS_OOP.jpeg" thumb="-thumb" caption="センサーやアームを用いて クラス設計と共同開発を ーOOPとArduino共同開発" >}}
-{{< figure link="/images/post/WS-1st/WS_inventor.jpg" thumb="-thumb" caption="メンバーが作成したデータを Inventorで自由自在に閲覧・確認しよう ーInventorやぞ" >}}
-{{< figure link="/images/post/WS-1st/WS_kiCad.png" caption="実際に作成したPCBデータ (非同期2進カウンタ) ーイチから始める回路製作" >}}
+{{< figure link="/images/post/2020/WS_1st/WS_OOP.jpeg" thumb="-thumb" caption="センサーやアームを用いて クラス設計と共同開発を ーOOPとArduino共同開発" >}}
+{{< figure link="/images/post/2020/WS_1st/WS_inventor.jpg" thumb="-thumb" caption="メンバーが作成したデータを Inventorで自由自在に閲覧・確認しよう ーInventorやぞ" >}}
+{{< figure link="/images/post/2020/WS_1st/WS_kiCad.png" caption="実際に作成したPCBデータ (非同期2進カウンタ) ーイチから始める回路製作" >}}
 {{< /gallery >}}
 
 # Twitterも埋め込み可能！

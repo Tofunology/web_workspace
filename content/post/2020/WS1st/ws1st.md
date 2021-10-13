@@ -5,9 +5,9 @@ subtitle:   "\"Workshop-1st\" was held online!"
 date:       2020-12-29
 #author:    "ぎてふ"
 URL:       "/2020/WS1st"
-image:      "/images/post/WS-1st/WS_top_dark.jpeg"
+image:      "/images/post/2020/WS_1st/WS_top_dark.jpeg"
 description: "初の団体内ワークショップ「Workshop-1st」を開催しました！！🎉🎉🎉"
-thumbnail:  "/images/post/WS-1st/WS_top.jpeg"
+thumbnail:  "/images/post/2020/WS_1st/WS_top.jpeg"
 
 tags:
     - workshop
@@ -44,7 +44,7 @@ tags:
 次に**教えられるメンバーに**企画してもらって、<br>
 最後に**それぞれ開催をする**。<br>
 ・・・という形をとりました。
-{{< figure src="/images/post/WS-1st/ws1st_plan.jpeg" >}}
+{{< figure src="/images/post/2020/WS_1st/ws1st_plan.jpeg" >}}
 
 <br>
 # 5つのワークショップを開催
@@ -82,7 +82,7 @@ tags:
 
 {{< load-photoswipe >}}
 {{< gallery hover-effect="grow" caption-position="center" caption-effect="fade" >}}
-{{< figure link="/images/post/WS-1st/WS_OOP.jpeg" thumb="-thumb" caption="センサーやアームを用いて クラス設計と共同開発を ーOOPとArduino共同開発" >}}
-{{< figure link="/images/post/WS-1st/WS_inventor.jpg" thumb="-thumb" caption="メンバーが作成したデータを Inventorで自由自在に閲覧・確認しよう ーInventorやぞ" >}}
-{{< figure link="/images/post/WS-1st/WS_kiCad.png" caption="実際に作成したPCBデータ (非同期2進カウンタ) ーイチから始める回路製作" >}}
+{{< figure link="/images/post/2020/WS_1st/WS_OOP.jpeg" thumb="-thumb" caption="センサーやアームを用いて クラス設計と共同開発を ーOOPとArduino共同開発" >}}
+{{< figure link="/images/post/2020/WS_1st/WS_inventor.jpg" thumb="-thumb" caption="メンバーが作成したデータを Inventorで自由自在に閲覧・確認しよう ーInventorやぞ" >}}
+{{< figure link="/images/post/2020/WS_1st/WS_kiCad.png" caption="実際に作成したPCBデータ (非同期2進カウンタ) ーイチから始める回路製作" >}}
 {{< /gallery >}}

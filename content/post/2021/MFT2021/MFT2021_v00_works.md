@@ -5,9 +5,9 @@ subtitle:   "We worked to update \"3-D Battle Ship Game Applying Holographic Tec
 date:       2021-05-02
 #author:     "ぎてふ"
 URL:        "/2021/MFT2021/works/v00"
-image:      "/images/post/MFT2021_v00_works/MFT2021_v00_works.jpeg"
+image:      "/images/post/2021/MFT2021/MFT2021_v00_works/MFT2021_v00_works.jpeg"
 description:  "MFT2019にて出展した「最強艦魚雷立体バトル」のアップデート作業を行いました！"
-thumbnail:  "/images/post/MFT2021_v00_works/thumbnail.jpeg"
+thumbnail:  "/images/post/2021/MFT2021/MFT2021_v00_works/thumbnail.jpeg"
 
 tags:
     - MFT2021
@@ -49,11 +49,11 @@ tags:
 ### 作業の様子
 {{< load-photoswipe >}}
 {{< gallery hover-effect="grow" caption-position="center" caption-effect="fade" >}}
-{{< figure link="/images/post/MFT2021_v00_works/check.jpeg" caption="自作しているボードゲーム" >}}
-{{< figure link="/images/post/MFT2021_v00_works/pcb.jpeg"  caption="自作ボードゲームに搭載したPCB" >}}
-{{< figure link="/images/post/MFT2021_v00_works/shot_model.png" caption="実際に作成した発射装置の3Dモデル" >}}
-{{< figure link="/images/post/MFT2021_v00_works/soft_works.jpeg" caption="ソフトのデバッグ作業" >}}
-{{< figure link="/images/post/MFT2021_v00_works/hard_flame.jpeg" caption="1Pプレイ用の投影装置作成" >}}
+{{< figure link="/images/post/2021/MFT2021/MFT2021_v00_works/check.jpeg" caption="自作しているボードゲーム" >}}
+{{< figure link="/images/post/2021/MFT2021/MFT2021_v00_works/pcb.jpeg"  caption="自作ボードゲームに搭載したPCB" >}}
+{{< figure link="/images/post/2021/MFT2021/MFT2021_v00_works/shot_model.png" caption="実際に作成した発射装置の3Dモデル" >}}
+{{< figure link="/images/post/2021/MFT2021/MFT2021_v00_works/soft_works.jpeg" caption="ソフトのデバッグ作業" >}}
+{{< figure link="/images/post/2021/MFT2021/MFT2021_v00_works/hard_flame.jpeg" caption="1Pプレイ用の投影装置作成" >}}
 {{< /gallery >}}
 
 <br>
