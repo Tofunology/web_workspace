@@ -14,7 +14,14 @@ hasCJKLanguage = true
 home = ["HTML", "RSS", "Algolia"]
 
 [params]
-  header_image = "images/home/meetingLog.jpg"
+  header_imageList = [
+                        "images/home/meetingLog.jpg",
+                        "images/home/mft2019_1.jpg",
+                        "images/home/C97_booth.jpg",
+                        "images/home/MFT2020_booth2.jpeg",
+                        "images/home/member.jpg",
+                        "images/home/MFT2021_v00_works.jpeg"
+                      ]
   SEOTitle = "tofunology"
   description = "ものつくりを軸に活動する団体\"tofunology\"のHPです"
   keyword = "電子工作，ものつくり，MFT，MakerFaireTokyo,チキン演奏,MFTokyo,ホログラム,学生,趣味,魚雷戦ゲーム"

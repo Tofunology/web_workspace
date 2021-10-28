@@ -1,6 +1,6 @@
 ---
 title:      "About"
-image:      "/images/About/member.jpg"
+image:      "/images/About/meetingLog.jpg"
 ---
 <center>
 # tofunologyとは

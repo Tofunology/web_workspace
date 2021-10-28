@@ -440,6 +440,7 @@ pre code {
 .intro-header {
     background: no-repeat center center;
     background-color: gray;
+    transition:all 1.2s ease-in-out;
     background-attachment: scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
