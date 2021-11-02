@@ -1,7 +1,6 @@
 ---
-draft:      true #`hugo server -Dw`でドラフト記事も追加されます．完成したらfalseに
 title:      "アップス縁日に向けて最終調整をしました！"
-subtitle:   "We make a final adjustment in preparation for UPS fair"
+subtitle:   "We made a final adjustment of our game for exhibition on UPS fair."
 date:       2021-11-01 #もし未来のdateを登録すると，記事を見ることができません．
 author:     "negi" #みんながわかればOK
 URL:        "/2021/upsEnnichi/upsEnnichi_last_notice" # 年/イベント名/大まかな内容/具体的な名前
