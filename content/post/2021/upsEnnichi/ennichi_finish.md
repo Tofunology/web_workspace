@@ -58,7 +58,7 @@ MakerFaireTokyo2021での[ミニプレゼンテーション](https://tofunology.
 
 また、一緒に展示したGOTO STATEMENTの**電卓演奏ロボット「A-HOGE」**も大人気でした！<br>
 このロボットは、音はもちろん「**<font style="color: #CC6600">機構</font>**」がとても魅力的です。<br>
-子どもたちも大人たちも、A-HOGEの動きを引き込まれるように見ていました。
+子どもたちも大人たちも、A-HOGEの動きを食いつくように見ていました。
 {{< load-photoswipe >}}
 {{< gallery hover-effect="grow" caption-position="center" caption-effect="fade" >}}
 {{< figure link="/images/post/2021/UpsEnnichi/finish/goto_statement_1.jpg" caption="みんな プログラムに興味津々...！" >}}
