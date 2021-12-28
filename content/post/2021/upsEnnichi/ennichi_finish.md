@@ -3,9 +3,9 @@ title:      "アップス縁日出展しました！"
 subtitle:   "We took part in \"UPS fair\"!"
 date:       2021-11-04 #もし未来のdateを登録すると、記事を見ることができません。
 author:     "Gitefu" #みんながわかればOK
-URL:        "/2020/upsEnnichi/finish" # 年/イベント名/大まかな内容/具体的な名前
+URL:        "/2021/upsEnnichi/finish" # 年/イベント名/大まかな内容/具体的な名前
 image:      "/images/post/2021/UpsEnnichi/finish/ups_entrance_dark.jpg" #題名部分の背景画像
-description:  "2021/11/03(祝)に行われたアップス縁日にて、最強艦魚雷立体バトルを展示しました！" #OGP関連、OGPやtwitterカードで検索すればわかる
+description:  "11/03に行われたアップス縁日にて、2Pプレイ対応に進化した「最強艦魚雷立体バトル」を展示しました！" #OGP関連、OGPやtwitterカードで検索すればわかる
 thumbnail:  "/images/post/2021/UpsEnnichi/finish/players.jpg" #OGP関連、OGPやtwitterカードで検索すればわかる
 
 tags:
