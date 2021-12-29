@@ -7,7 +7,7 @@ author:     "Gitefu"
 URL:        "/2021/C99/notice/join"
 image:      "/images/post/2019/C97/join/C97_end_gray.jpeg"
 description:  "コミックマーケット99の2日目金曜日にSHOUTING PIANOの製作記を頒布します！"
-thumbnail:  "/images/post/2021/C99/notice/book.jpeg"
+thumbnail:  "/images/post/2021/C99/notice/book_th.jpeg"
 
 tags:
     - コミックマーケット
@@ -24,7 +24,7 @@ tags:
 　昨年「[MakerFaireTokyo2020](https://makezine.jp/event/mft2020/)」で出展した**<font style="color: #CC6600">「SHOUTING PIANO」</font>**の製作記をコミックマーケット99にて頒布します！<br>
 <div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://tofunology.github.io/site/2020/MFT2020/finish/" data-iframely-url="//cdn.iframe.ly/XaLdynu?card=small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
-2日目に<b><u>東地区"へ"ブロック18a</u></b>にて，1冊**<font style="color: #CC6600">300円</font>**で頒布します。皆さんとお会いしてお話できることを楽しみにしています。
+2日目に<b><u>東地区"へ"ブロック18a</u></b>にて、1冊**<font style="color: #CC6600">300円</font>**で頒布します。皆さんとお会いしてお話できることを楽しみにしています。
 　<h3>ぜひお越しください🎉🎉🎉</h3>
 {{< figure src="/images/post/2021/C99/notice/book.jpeg" >}}
 
