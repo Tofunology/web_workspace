@@ -165,6 +165,15 @@ git config --global user.name "ユーザー名"
 git config --global user.email メールアドレス
 ```
 
+# &#9670; パスワードを設定
+最近アクセストークンによる承認に変わりました．．．
+1. まずアクセストークンを取得しましょう． https://techback.info/github-password-authentication-to-token/
+
+今後もしパスワードを聞かれたら，
+1. 先ほどの作業で取得したトークンを入力
+1. 入力後，次のURLを参考にパスワード聞かれないように設定 https://qiita.com/aqua_ix/items/0433f85330087c62bffa
+     1. 本当は良くないよ！
+
 # &#9670; 作業用リポジトリの作成
 1. 作業をするフォルダでVScodeを開きましょう
 1. `git clone https://github.com/Tofunology/web_workspace.git`する
