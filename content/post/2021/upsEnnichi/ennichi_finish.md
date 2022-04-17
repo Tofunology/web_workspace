@@ -1,6 +1,6 @@
 ---
-title:      "アップス縁日出展しました！"
-subtitle:   "We took part in \"UPS fair\"!"
+title:      "アップス縁日出展しました"
+subtitle:   "We took part in \"UPS fair\" "
 date:       2021-11-04 #もし未来のdateを登録すると、記事を見ることができません。
 author:     "Gitefu" #みんながわかればOK
 URL:        "/2021/upsEnnichi/finish" # 年/イベント名/大まかな内容/具体的な名前
@@ -51,7 +51,7 @@ MakerFaireTokyo2021での[ミニプレゼンテーション](https://tofunology.
 {{< figure link="/images/post/2021/UpsEnnichi/finish/two_players.jpg" caption="お友達と 2P対戦！！" >}}
 {{< figure link="/images/post/2021/UpsEnnichi/finish/player_man.jpg" caption="大人の方も プレイに夢中！" >}}
 {{< figure link="/images/post/2021/UpsEnnichi/finish/player_boys.jpg" caption="お友達と協力プレイ！" >}}
-{{< figure link="/images/post/2021/UpsEnnichi/finish/play_2.jpg" caption="浮かぶディスプレイに みんなびっくり！" >}}
+{{< figure link="/images/post/2021/UpsEnnichi/finish/play_2.jpg" caption="宙に浮かぶディスプレイに みんなびっくり！" >}}
 {{< figure link="/images/post/2021/UpsEnnichi/finish/members.jpg" caption="メンバーが丁寧に 遊び方を説明！" >}}
 {{< figure link="/images/post/2021/UpsEnnichi/finish/boy_win.jpg" caption="対戦に勝利して \"万歳！\"" >}}
 {{< /gallery >}}
