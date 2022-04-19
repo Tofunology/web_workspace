@@ -26,6 +26,9 @@ tags:
 
 *****
 
+# issue処理の練習用の編集
+消してもいいよ
+
 # 普通の文字
 普通の文字はこんな感じ！
 改行だけだと繋がっちまうぜ！
@@ -42,10 +45,10 @@ tags:
 # 文字色はHTML埋め込みで変更！
 <font color="#F75940">赤色</font> <br>
 <font color="#3DC7BE">青色</font> <br>
-<font color="#00a03e">緑色</font> 
+<font color="#00a03e">緑色</font>
 
 # 組み合わせも可能
-**<font color="#F75940">boldな赤だぜ〜〜〜</font>** 
+**<font color="#F75940">boldな赤だぜ〜〜〜</font>**
 
 # コード埋め込み
 ## 文中の埋め込み
